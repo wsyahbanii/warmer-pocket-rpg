@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.23867758270259576,
+    "zoomFactor": 0.8700232859858158,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -29,7 +29,6 @@
   "variables": [
     {
       "name": "Variable",
-      "persistentUuid": "771c480a-3829-4a4c-b6f7-63988c57bf97",
       "type": "number",
       "value": 0
     }
@@ -43,8 +42,8 @@
       "layer": "",
       "name": "LantaiKampus",
       "persistentUuid": "0a483a35-1630-4fff-8d60-cdeb0aeb756d",
-      "width": 3841,
-      "x": -802,
+      "width": 5632,
+      "x": -800,
       "y": -345,
       "zOrder": 0,
       "numberProperties": [],
@@ -72,14 +71,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 219,
+      "height": 227,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "ecd32921-43a5-4b10-8ecc-55bf6111d958",
       "width": 287,
       "x": 1087,
-      "y": -344,
+      "y": -352,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -106,14 +105,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 265,
+      "height": 273,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "997703db-d0bd-4df0-900a-a39755a0441b",
       "width": 1368,
       "x": -281,
-      "y": -344,
+      "y": -352,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -182,7 +181,7 @@
       "width": 300,
       "x": -84,
       "y": -327,
-      "zOrder": 1,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -199,7 +198,7 @@
       "width": 300,
       "x": 170,
       "y": -327,
-      "zOrder": 1,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -213,7 +212,7 @@
       "layer": "",
       "name": "Window",
       "persistentUuid": "d6a5f2e2-7454-48a7-81c4-b797899bb02c",
-      "width": 300,
+      "width": 281,
       "x": 2439,
       "y": -324,
       "zOrder": 2,
@@ -233,7 +232,7 @@
       "width": 300,
       "x": 2185,
       "y": -324,
-      "zOrder": 1,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -278,7 +277,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "V_103",
+      "name": "V_102",
       "persistentUuid": "2ae93e0b-d9d0-46f1-b665-4f8e6aac711d",
       "width": 0,
       "x": 2604,
@@ -292,14 +291,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 219,
+      "height": 227,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "9a41f1e8-0bd2-4de7-9cbb-6ed8d59cbdfa",
-      "width": 287,
+      "width": 293,
       "x": 2747,
-      "y": -344,
+      "y": -352,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -309,31 +308,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 295,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Dinding",
-      "persistentUuid": "ade1ba25-464a-463f-aa70-e5dc34995d54",
-      "width": 90,
-      "x": 2944,
-      "y": -125,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 266,
+      "height": 224,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "c65bd61d-f187-4aad-8adf-c754abacc2f8",
-      "width": 1661,
+      "width": 1379,
       "x": 1373,
-      "y": -344,
+      "y": -352,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -382,8 +364,8 @@
       "name": "PintuKelas",
       "persistentUuid": "b213d847-5609-4d80-8445-fbe8706056ac",
       "width": 0,
-      "x": 2670,
-      "y": -179,
+      "x": 2669,
+      "y": -181,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -398,32 +380,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 547,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Dinding",
-      "opacity": 0,
-      "persistentUuid": "48539f43-938e-4db9-8d77-a533b5cd8842",
-      "width": 9,
-      "x": 3024,
-      "y": 170,
-      "zOrder": 8,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 32,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "dff50e76-46cc-43ad-925c-73872beb052f",
-      "width": 3831,
-      "x": -807,
-      "y": 685,
+      "width": 5632,
+      "x": -800,
+      "y": 672,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -433,14 +397,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1015,
+      "height": 992,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "0b42320c-25ff-477d-996b-4697b2379b8e",
       "width": 32,
-      "x": -807,
-      "y": -330,
+      "x": -800,
+      "y": -320,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -455,9 +419,9 @@
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "38a9da12-3ee4-4fff-a71e-da10f4338c1b",
-      "width": 528,
-      "x": -807,
-      "y": -345,
+      "width": 521,
+      "x": -800,
+      "y": -352,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -469,7 +433,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "V_104",
+      "name": "V_101",
       "persistentUuid": "19981f09-c045-4dd2-b44a-5545541b904e",
       "width": 0,
       "x": 941,
@@ -481,49 +445,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "PintuKelas2",
-      "persistentUuid": "40fb1c66-d08d-48c5-9399-e1481979739c",
-      "width": 0,
-      "x": 1009,
-      "y": -181,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 32,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Dinding",
-      "persistentUuid": "265376c4-d084-4df1-85de-9d49c0a835c9",
-      "width": 199,
-      "x": 1086,
-      "y": 137,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 295,
+      "height": 299,
       "keepRatio": true,
       "layer": "",
       "name": "Dinding",
       "persistentUuid": "1ea79ca6-b17a-46fd-b4bf-659bd08c797f",
-      "width": 89,
+      "width": 95,
       "x": 2945,
-      "y": -124,
+      "y": -128,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -538,24 +469,8 @@
       "name": "Nabil",
       "persistentUuid": "5b40f420-ee14-42e9-8a2a-8ab69200d019",
       "width": 0,
-      "x": -384,
-      "y": 192,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "wsyahbanii",
-      "persistentUuid": "65cec177-16bf-4318-8b39-c4b72632ee0b",
-      "width": 0,
-      "x": -384,
-      "y": 192,
+      "x": 1078,
+      "y": -64,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -698,8 +613,8 @@
       "name": "ucup",
       "persistentUuid": "6ffbeed3-3f06-4dbe-8350-e39ed5729d48",
       "width": 0,
-      "x": 2718,
-      "y": 0,
+      "x": 2720,
+      "y": -32,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -712,7 +627,7 @@
       "height": 72,
       "keepRatio": true,
       "layer": "",
-      "name": "toKelas",
+      "name": "toKelas102",
       "opacity": 0,
       "persistentUuid": "57bab666-207c-403a-80ac-6b374daa9eaa",
       "width": 124,
@@ -829,12 +744,46 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "titikLobby",
-      "persistentUuid": "04a390e5-9f6d-41a3-8aeb-a1226934edcc",
+      "name": "titikKls102",
+      "persistentUuid": "9d184731-84c1-4c45-a141-5075d5cb6387",
       "width": 0,
-      "x": -384,
-      "y": 192,
-      "zOrder": 21,
+      "x": 2720,
+      "y": -32,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 295,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "c61787c2-e8f0-4c41-85f6-527363393d93",
+      "width": 90,
+      "x": 741,
+      "y": -311.5,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 295,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "845ba44b-674e-42fd-a284-2015aeafb325",
+      "width": 89,
+      "x": 742,
+      "y": -310.5,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -846,11 +795,396 @@
       "keepRatio": true,
       "layer": "",
       "name": "titikKls102",
-      "persistentUuid": "9d184731-84c1-4c45-a141-5075d5cb6387",
+      "persistentUuid": "05869df2-d823-4784-bcd5-11479e622f5a",
       "width": 0,
-      "x": 2718,
-      "y": 0,
+      "x": 515,
+      "y": -186.5,
       "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "e4a0a84e-5375-4cf5-a1d1-69231f27f9d6",
+      "width": 128,
+      "x": 1376,
+      "y": 64,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 266,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "040fec6e-d046-4c62-a7da-b9bc7a2e91ba",
+      "width": 1376,
+      "x": 3040,
+      "y": -147,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 128,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "67a49c70-8da9-429e-a8c5-07d7f69dd75e",
+      "width": 128,
+      "x": 3040,
+      "y": 64,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 65,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "1e81eafe-5a2d-4766-9c99-790fae96f87e",
+      "width": 1377,
+      "x": 3039,
+      "y": 107,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 226,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "52e6deb1-0e87-4356-ad26-33578dc49fe6",
+      "width": 1376,
+      "x": 3040,
+      "y": -352,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 265,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Window",
+      "persistentUuid": "a9f4fa48-4d10-471d-a91f-bfc2cc155f54",
+      "width": 300,
+      "x": 3243,
+      "y": -325,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 265,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Window",
+      "persistentUuid": "4499d0ba-2b8e-4c2e-a853-c3786cfa0823",
+      "width": 300,
+      "x": 3497,
+      "y": -325,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 265,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Window",
+      "persistentUuid": "bd8ebb15-e7bb-4296-a12b-9d7c678250aa",
+      "width": 300,
+      "x": 3852,
+      "y": -322,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 265,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Window",
+      "persistentUuid": "32ea4cce-0e14-480e-bb29-1ef3c62cb8a5",
+      "width": 281,
+      "x": 4106,
+      "y": -322,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 256,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "491f8444-ac81-460a-84af-b3ec999dba77",
+      "width": 288,
+      "x": 4416,
+      "y": -352,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 333,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "539c53fb-6c81-4886-903f-eebecdd3b8ee",
+      "width": 92,
+      "x": 4612,
+      "y": -160,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 544,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "c9fadbcb-7853-4442-bca9-787ce059f683",
+      "width": 128,
+      "x": 4704,
+      "y": -352,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "V_103",
+      "persistentUuid": "84ad48d1-b60a-47b0-b272-ce93f9b79fe1",
+      "width": 0,
+      "x": 4262,
+      "y": -180,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "titikLobby",
+      "persistentUuid": "30ac4027-b7e8-4e42-972f-680c1d8b3e5e",
+      "width": 0,
+      "x": -384,
+      "y": 192,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "titikKls101",
+      "persistentUuid": "cd1a89e0-be74-497d-a5b7-4092fbac754c",
+      "width": 0,
+      "x": 1078,
+      "y": -64,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "wsyahbanii",
+      "persistentUuid": "6e2860f7-c591-4094-b905-67682b3611bc",
+      "width": 0,
+      "x": 4391,
+      "y": -60,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "titikKls103",
+      "persistentUuid": "923db225-e854-4081-893c-37e539127de5",
+      "width": 0,
+      "x": 4391,
+      "y": -60,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "toKelas101",
+      "opacity": 0,
+      "persistentUuid": "62f0f362-5a1d-4ddb-8aeb-7df2ac8392d3",
+      "width": 128,
+      "x": 1120,
+      "y": 32,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "toKelas103",
+      "opacity": 0,
+      "persistentUuid": "9861df51-0b79-45be-8b7a-5e667c8cd677",
+      "width": 128,
+      "x": 4448,
+      "y": 32,
+      "zOrder": 33,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PintuKelas",
+      "persistentUuid": "e63d82fd-dbdc-4298-bd85-0a0f1188bed5",
+      "width": 0,
+      "x": 4338,
+      "y": -178,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PintuKelas",
+      "persistentUuid": "92e82e5e-4594-43f8-9abf-9e46d9cfb843",
+      "width": 0,
+      "x": 1010,
+      "y": -181,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UIMenu",
+      "name": "Kembali",
+      "persistentUuid": "c35089a1-4123-45b5-a177-bd3064e570ea",
+      "width": 0,
+      "x": -64,
+      "y": -32,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 512,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Dinding",
+      "persistentUuid": "2ff93895-3d26-483a-81fd-2ba4a4bcf95e",
+      "width": 32,
+      "x": 4800,
+      "y": 192,
+      "zOrder": 34,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -913,7 +1247,7 @@
     {
       "assetStoreId": "",
       "height": 128,
-      "name": "V_103",
+      "name": "V_102",
       "persistentUuid": "dea34c5b-7b72-41a0-bc8b-0736a3abab07",
       "texture": "NewTiledSprite4",
       "type": "TiledSpriteObject::TiledSprite",
@@ -1218,7 +1552,7 @@
     {
       "assetStoreId": "",
       "height": 128,
-      "name": "V_104",
+      "name": "V_101",
       "persistentUuid": "1ab55413-7762-4b87-9cdc-cf2daa00e773",
       "texture": "NewTiledSprite17",
       "type": "TiledSpriteObject::TiledSprite",
@@ -1341,7 +1675,7 @@
     {
       "assetStoreId": "",
       "height": 32,
-      "name": "toKelas",
+      "name": "toKelas102",
       "persistentUuid": "d350f857-fd52-466c-965c-e96f7c6713a6",
       "texture": "Dinding",
       "type": "TiledSpriteObject::TiledSprite",
@@ -1373,6 +1707,66 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 128,
+      "name": "V_103",
+      "persistentUuid": "f81c5b67-e535-49a4-98f6-0a7e546eaba9",
+      "texture": "NewTiledSprite18",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "titikKls103",
+      "persistentUuid": "36d7d77a-09ff-47da-8457-6470b3262b59",
+      "texture": "Tangga",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "titikKls101",
+      "persistentUuid": "a0f20e43-1e70-473f-802e-d4607a87acbd",
+      "texture": "Tangga",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "toKelas101",
+      "persistentUuid": "c442c3f8-5b5d-4da4-93a3-1ee0ff96feec",
+      "texture": "Dinding",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "toKelas103",
+      "persistentUuid": "ad074fac-b99c-41a0-8448-8ba0a08e5b7f",
+      "texture": "Dinding",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -1388,7 +1782,13 @@
         "objectName": "PintuKelas"
       },
       {
-        "objectName": "toKelas"
+        "objectName": "toKelas102"
+      },
+      {
+        "objectName": "toKelas101"
+      },
+      {
+        "objectName": "toKelas103"
       },
       {
         "objectName": "PintuKelas2"
@@ -1397,10 +1797,13 @@
         "objectName": "Window"
       },
       {
+        "objectName": "V_102"
+      },
+      {
         "objectName": "V_103"
       },
       {
-        "objectName": "V_104"
+        "objectName": "V_101"
       },
       {
         "objectName": "Nabil_Smok"
@@ -1413,6 +1816,12 @@
       },
       {
         "objectName": "titikKls102"
+      },
+      {
+        "objectName": "titikKls103"
+      },
+      {
+        "objectName": "titikKls101"
       }
     ]
   },
@@ -3284,7 +3693,7 @@
           },
           "parameters": [
             "PemainUtama",
-            "toKelas",
+            "toKelas101",
             "",
             "",
             ""
@@ -3326,6 +3735,144 @@
             "\"RuangKelas\"",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "SetNumberVariable"
+          },
+          "parameters": [
+            "Lorong_Kelas",
+            "=",
+            "101"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "PemainUtama",
+            "toKelas102",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "PintuKelas",
+            "Animation",
+            "=",
+            "\"Buka\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.4"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"RuangKelas\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberVariable"
+          },
+          "parameters": [
+            "Lorong_Kelas",
+            "=",
+            "102"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "PemainUtama",
+            "toKelas103",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "PintuKelas",
+            "Animation",
+            "=",
+            "\"Buka\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.4"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"RuangKelas\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberVariable"
+          },
+          "parameters": [
+            "Lorong_Kelas",
+            "=",
+            "103"
+          ]
         }
       ]
     },
@@ -3362,7 +3909,23 @@
             "value": "Hide"
           },
           "parameters": [
+            "titikKls101"
+          ]
+        },
+        {
+          "type": {
+            "value": "Hide"
+          },
+          "parameters": [
             "titikKls102"
+          ]
+        },
+        {
+          "type": {
+            "value": "Hide"
+          },
+          "parameters": [
+            "titikKls103"
           ]
         }
       ]
@@ -3379,7 +3942,19 @@
           ]
         }
       ],
-      "actions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "PemainUtama",
+            "Animation",
+            "=",
+            "\"IdleRight\""
+          ]
+        }
+      ],
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -3435,6 +4010,93 @@
                 "titikKls102.X()",
                 "=",
                 "titikKls102.Y()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Kelas_Lorong",
+                "=",
+                "101"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "PemainUtama",
+                "=",
+                "titikKls101.X()",
+                "=",
+                "titikKls101.Y()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Kelas_Lorong",
+                "=",
+                "102"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "PemainUtama",
+                "=",
+                "titikKls102.X()",
+                "=",
+                "titikKls102.Y()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Kelas_Lorong",
+                "=",
+                "103"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "PemainUtama",
+                "=",
+                "titikKls103.X()",
+                "=",
+                "titikKls103.Y()"
               ]
             }
           ]

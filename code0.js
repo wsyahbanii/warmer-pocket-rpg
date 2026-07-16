@@ -10,9 +10,9 @@ gdjs.LorongCode.GDDindingObjects3= [];
 gdjs.LorongCode.GDWindowObjects1= [];
 gdjs.LorongCode.GDWindowObjects2= [];
 gdjs.LorongCode.GDWindowObjects3= [];
-gdjs.LorongCode.GDV_9595103Objects1= [];
-gdjs.LorongCode.GDV_9595103Objects2= [];
-gdjs.LorongCode.GDV_9595103Objects3= [];
+gdjs.LorongCode.GDV_9595102Objects1= [];
+gdjs.LorongCode.GDV_9595102Objects2= [];
+gdjs.LorongCode.GDV_9595102Objects3= [];
 gdjs.LorongCode.GDPintuKelasObjects1= [];
 gdjs.LorongCode.GDPintuKelasObjects2= [];
 gdjs.LorongCode.GDPintuKelasObjects3= [];
@@ -22,21 +22,36 @@ gdjs.LorongCode.GDNabil_9595SmokObjects3= [];
 gdjs.LorongCode.GDsundaObjects1= [];
 gdjs.LorongCode.GDsundaObjects2= [];
 gdjs.LorongCode.GDsundaObjects3= [];
-gdjs.LorongCode.GDV_9595104Objects1= [];
-gdjs.LorongCode.GDV_9595104Objects2= [];
-gdjs.LorongCode.GDV_9595104Objects3= [];
+gdjs.LorongCode.GDV_9595101Objects1= [];
+gdjs.LorongCode.GDV_9595101Objects2= [];
+gdjs.LorongCode.GDV_9595101Objects3= [];
 gdjs.LorongCode.GDPintuKelas2Objects1= [];
 gdjs.LorongCode.GDPintuKelas2Objects2= [];
 gdjs.LorongCode.GDPintuKelas2Objects3= [];
-gdjs.LorongCode.GDtoKelasObjects1= [];
-gdjs.LorongCode.GDtoKelasObjects2= [];
-gdjs.LorongCode.GDtoKelasObjects3= [];
+gdjs.LorongCode.GDtoKelas102Objects1= [];
+gdjs.LorongCode.GDtoKelas102Objects2= [];
+gdjs.LorongCode.GDtoKelas102Objects3= [];
 gdjs.LorongCode.GDtitikLobbyObjects1= [];
 gdjs.LorongCode.GDtitikLobbyObjects2= [];
 gdjs.LorongCode.GDtitikLobbyObjects3= [];
 gdjs.LorongCode.GDtitikKls102Objects1= [];
 gdjs.LorongCode.GDtitikKls102Objects2= [];
 gdjs.LorongCode.GDtitikKls102Objects3= [];
+gdjs.LorongCode.GDV_9595103Objects1= [];
+gdjs.LorongCode.GDV_9595103Objects2= [];
+gdjs.LorongCode.GDV_9595103Objects3= [];
+gdjs.LorongCode.GDtitikKls103Objects1= [];
+gdjs.LorongCode.GDtitikKls103Objects2= [];
+gdjs.LorongCode.GDtitikKls103Objects3= [];
+gdjs.LorongCode.GDtitikKls101Objects1= [];
+gdjs.LorongCode.GDtitikKls101Objects2= [];
+gdjs.LorongCode.GDtitikKls101Objects3= [];
+gdjs.LorongCode.GDtoKelas101Objects1= [];
+gdjs.LorongCode.GDtoKelas101Objects2= [];
+gdjs.LorongCode.GDtoKelas101Objects3= [];
+gdjs.LorongCode.GDtoKelas103Objects1= [];
+gdjs.LorongCode.GDtoKelas103Objects2= [];
+gdjs.LorongCode.GDtoKelas103Objects3= [];
 gdjs.LorongCode.GDwsyahbaniiObjects1= [];
 gdjs.LorongCode.GDwsyahbaniiObjects2= [];
 gdjs.LorongCode.GDwsyahbaniiObjects3= [];
@@ -105,14 +120,16 @@ gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDDindingObjects1Objects = Hashta
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.LorongCode.GDDindingObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.LorongCode.GDDindingObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
-gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelasObjects1Objects = Hashtable.newFrom({"toKelas": gdjs.LorongCode.GDtoKelasObjects1});
-gdjs.LorongCode.asyncCallback12912364 = function (runtimeScene, asyncObjectsList) {
+gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas101Objects1Objects = Hashtable.newFrom({"toKelas101": gdjs.LorongCode.GDtoKelas101Objects1});
+gdjs.LorongCode.asyncCallback10799868 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables);
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "RuangKelas", false);
 }
+{runtimeScene.getGame().getVariables().getFromIndex(2).setNumber(101);
+}
 gdjs.LorongCode.localVariables.length = 0;
 }
-gdjs.LorongCode.idToCallbackMap.set(12912364, gdjs.LorongCode.asyncCallback12912364);
+gdjs.LorongCode.idToCallbackMap.set(10799868, gdjs.LorongCode.asyncCallback10799868);
 gdjs.LorongCode.eventsList0 = function(runtimeScene) {
 
 {
@@ -122,7 +139,61 @@ gdjs.LorongCode.eventsList0 = function(runtimeScene) {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.LorongCode.localVariables);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback12912364(runtimeScene, asyncObjectsList)), 12912364, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback10799868(runtimeScene, asyncObjectsList)), 10799868, asyncObjectsList);
+}
+}
+
+}
+
+
+};gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
+gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas102Objects1Objects = Hashtable.newFrom({"toKelas102": gdjs.LorongCode.GDtoKelas102Objects1});
+gdjs.LorongCode.asyncCallback9204724 = function (runtimeScene, asyncObjectsList) {
+asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables);
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "RuangKelas", false);
+}
+{runtimeScene.getGame().getVariables().getFromIndex(2).setNumber(102);
+}
+gdjs.LorongCode.localVariables.length = 0;
+}
+gdjs.LorongCode.idToCallbackMap.set(9204724, gdjs.LorongCode.asyncCallback9204724);
+gdjs.LorongCode.eventsList1 = function(runtimeScene) {
+
+{
+
+
+{
+{
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+asyncObjectsList.backupLocalVariablesContainers(gdjs.LorongCode.localVariables);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback9204724(runtimeScene, asyncObjectsList)), 9204724, asyncObjectsList);
+}
+}
+
+}
+
+
+};gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
+gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas103Objects1Objects = Hashtable.newFrom({"toKelas103": gdjs.LorongCode.GDtoKelas103Objects1});
+gdjs.LorongCode.asyncCallback12648468 = function (runtimeScene, asyncObjectsList) {
+asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables);
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "RuangKelas", false);
+}
+{runtimeScene.getGame().getVariables().getFromIndex(2).setNumber(103);
+}
+gdjs.LorongCode.localVariables.length = 0;
+}
+gdjs.LorongCode.idToCallbackMap.set(12648468, gdjs.LorongCode.asyncCallback12648468);
+gdjs.LorongCode.eventsList2 = function(runtimeScene) {
+
+{
+
+
+{
+{
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+asyncObjectsList.backupLocalVariablesContainers(gdjs.LorongCode.localVariables);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback12648468(runtimeScene, asyncObjectsList)), 12648468, asyncObjectsList);
 }
 }
 
@@ -134,7 +205,7 @@ gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDTombolKiriObjects1Objects = Has
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDTombolKananObjects1Objects = Hashtable.newFrom({"TombolKanan": gdjs.LorongCode.GDTombolKananObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDTombolBawahObjects1Objects = Hashtable.newFrom({"TombolBawah": gdjs.LorongCode.GDTombolBawahObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDKembaliObjects1Objects = Hashtable.newFrom({"Kembali": gdjs.LorongCode.GDKembaliObjects1});
-gdjs.LorongCode.eventsList1 = function(runtimeScene) {
+gdjs.LorongCode.eventsList3 = function(runtimeScene) {
 
 {
 
@@ -144,19 +215,31 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(1).getAsNumber() == 1);
 }
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LorongCode.GDBokriObjects2);
-gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LorongCode.GDDandiObjects2);
-gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LorongCode.GDHaikalObjects2);
-gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LorongCode.GDNabilObjects2);
-gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LorongCode.GDalamObjects2);
-gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LorongCode.GDanisaObjects2);
-gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LorongCode.GDdenyObjects2);
-gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LorongCode.GDilhamObjects2);
-gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LorongCode.GDputraObjects2);
+gdjs.copyArray(gdjs.LorongCode.GDBokriObjects1, gdjs.LorongCode.GDBokriObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDDandiObjects1, gdjs.LorongCode.GDDandiObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDHaikalObjects1, gdjs.LorongCode.GDHaikalObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDNabilObjects1, gdjs.LorongCode.GDNabilObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDalamObjects1, gdjs.LorongCode.GDalamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDanisaObjects1, gdjs.LorongCode.GDanisaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDdenyObjects1, gdjs.LorongCode.GDdenyObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDilhamObjects1, gdjs.LorongCode.GDilhamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDputraObjects1, gdjs.LorongCode.GDputraObjects2);
+
 gdjs.copyArray(runtimeScene.getObjects("titikLobby"), gdjs.LorongCode.GDtitikLobbyObjects2);
-gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LorongCode.GDtyaObjects2);
-gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LorongCode.GDucupObjects2);
-gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LorongCode.GDwsyahbaniiObjects2);
+gdjs.copyArray(gdjs.LorongCode.GDtyaObjects1, gdjs.LorongCode.GDtyaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDucupObjects1, gdjs.LorongCode.GDucupObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDwsyahbaniiObjects1, gdjs.LorongCode.GDwsyahbaniiObjects2);
+
 {for(var i = 0, len = gdjs.LorongCode.GDHaikalObjects2.length ;i < len;++i) {
     gdjs.LorongCode.GDHaikalObjects2[i].setPosition((( gdjs.LorongCode.GDtitikLobbyObjects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikLobbyObjects2[0].getX()),(( gdjs.LorongCode.GDtitikLobbyObjects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikLobbyObjects2[0].getY()));
 }
@@ -207,54 +290,279 @@ isConditionTrue_0 = false;
 {isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(1).getAsNumber() == 2);
 }
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LorongCode.GDBokriObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LorongCode.GDDandiObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LorongCode.GDHaikalObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LorongCode.GDNabilObjects1);
-gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LorongCode.GDalamObjects1);
-gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LorongCode.GDanisaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LorongCode.GDdenyObjects1);
-gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LorongCode.GDilhamObjects1);
-gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LorongCode.GDputraObjects1);
-gdjs.copyArray(runtimeScene.getObjects("titikKls102"), gdjs.LorongCode.GDtitikKls102Objects1);
-gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LorongCode.GDtyaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LorongCode.GDucupObjects1);
-gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LorongCode.GDwsyahbaniiObjects1);
+gdjs.copyArray(gdjs.LorongCode.GDBokriObjects1, gdjs.LorongCode.GDBokriObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDDandiObjects1, gdjs.LorongCode.GDDandiObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDHaikalObjects1, gdjs.LorongCode.GDHaikalObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDNabilObjects1, gdjs.LorongCode.GDNabilObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDalamObjects1, gdjs.LorongCode.GDalamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDanisaObjects1, gdjs.LorongCode.GDanisaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDdenyObjects1, gdjs.LorongCode.GDdenyObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDilhamObjects1, gdjs.LorongCode.GDilhamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDputraObjects1, gdjs.LorongCode.GDputraObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("titikKls102"), gdjs.LorongCode.GDtitikKls102Objects2);
+gdjs.copyArray(gdjs.LorongCode.GDtyaObjects1, gdjs.LorongCode.GDtyaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDucupObjects1, gdjs.LorongCode.GDucupObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDwsyahbaniiObjects1, gdjs.LorongCode.GDwsyahbaniiObjects2);
+
+{for(var i = 0, len = gdjs.LorongCode.GDHaikalObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDHaikalObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDNabilObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDNabilObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDputraObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDputraObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDwsyahbaniiObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDwsyahbaniiObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDBokriObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDBokriObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDdenyObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDdenyObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDanisaObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDanisaObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDilhamObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDilhamObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDtyaObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDtyaObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDalamObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDalamObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDucupObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDucupObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDDandiObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDDandiObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(3).getAsNumber() == 101);
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(gdjs.LorongCode.GDBokriObjects1, gdjs.LorongCode.GDBokriObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDDandiObjects1, gdjs.LorongCode.GDDandiObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDHaikalObjects1, gdjs.LorongCode.GDHaikalObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDNabilObjects1, gdjs.LorongCode.GDNabilObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDalamObjects1, gdjs.LorongCode.GDalamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDanisaObjects1, gdjs.LorongCode.GDanisaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDdenyObjects1, gdjs.LorongCode.GDdenyObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDilhamObjects1, gdjs.LorongCode.GDilhamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDputraObjects1, gdjs.LorongCode.GDputraObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("titikKls101"), gdjs.LorongCode.GDtitikKls101Objects2);
+gdjs.copyArray(gdjs.LorongCode.GDtyaObjects1, gdjs.LorongCode.GDtyaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDucupObjects1, gdjs.LorongCode.GDucupObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDwsyahbaniiObjects1, gdjs.LorongCode.GDwsyahbaniiObjects2);
+
+{for(var i = 0, len = gdjs.LorongCode.GDHaikalObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDHaikalObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDNabilObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDNabilObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDputraObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDputraObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDwsyahbaniiObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDwsyahbaniiObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDBokriObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDBokriObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDdenyObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDdenyObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDanisaObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDanisaObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDilhamObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDilhamObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDtyaObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDtyaObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDalamObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDalamObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDucupObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDucupObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDDandiObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDDandiObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls101Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls101Objects2[0].getY()));
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(3).getAsNumber() == 102);
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(gdjs.LorongCode.GDBokriObjects1, gdjs.LorongCode.GDBokriObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDDandiObjects1, gdjs.LorongCode.GDDandiObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDHaikalObjects1, gdjs.LorongCode.GDHaikalObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDNabilObjects1, gdjs.LorongCode.GDNabilObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDalamObjects1, gdjs.LorongCode.GDalamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDanisaObjects1, gdjs.LorongCode.GDanisaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDdenyObjects1, gdjs.LorongCode.GDdenyObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDilhamObjects1, gdjs.LorongCode.GDilhamObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDputraObjects1, gdjs.LorongCode.GDputraObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("titikKls102"), gdjs.LorongCode.GDtitikKls102Objects2);
+gdjs.copyArray(gdjs.LorongCode.GDtyaObjects1, gdjs.LorongCode.GDtyaObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDucupObjects1, gdjs.LorongCode.GDucupObjects2);
+
+gdjs.copyArray(gdjs.LorongCode.GDwsyahbaniiObjects1, gdjs.LorongCode.GDwsyahbaniiObjects2);
+
+{for(var i = 0, len = gdjs.LorongCode.GDHaikalObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDHaikalObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDNabilObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDNabilObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDputraObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDputraObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDwsyahbaniiObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDwsyahbaniiObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDBokriObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDBokriObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDdenyObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDdenyObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDanisaObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDanisaObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDilhamObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDilhamObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDtyaObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDtyaObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDalamObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDalamObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDucupObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDucupObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+for(var i = 0, len = gdjs.LorongCode.GDDandiObjects2.length ;i < len;++i) {
+    gdjs.LorongCode.GDDandiObjects2[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects2.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects2[0].getY()));
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getGame().getVariables().getFromIndex(3).getAsNumber() == 103);
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.LorongCode.GDBokriObjects1 */
+/* Reuse gdjs.LorongCode.GDDandiObjects1 */
+/* Reuse gdjs.LorongCode.GDHaikalObjects1 */
+/* Reuse gdjs.LorongCode.GDNabilObjects1 */
+/* Reuse gdjs.LorongCode.GDalamObjects1 */
+/* Reuse gdjs.LorongCode.GDanisaObjects1 */
+/* Reuse gdjs.LorongCode.GDdenyObjects1 */
+/* Reuse gdjs.LorongCode.GDilhamObjects1 */
+/* Reuse gdjs.LorongCode.GDputraObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("titikKls103"), gdjs.LorongCode.GDtitikKls103Objects1);
+/* Reuse gdjs.LorongCode.GDtyaObjects1 */
+/* Reuse gdjs.LorongCode.GDucupObjects1 */
+/* Reuse gdjs.LorongCode.GDwsyahbaniiObjects1 */
 {for(var i = 0, len = gdjs.LorongCode.GDHaikalObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDHaikalObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDHaikalObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDNabilObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDNabilObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDNabilObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDputraObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDputraObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDputraObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDwsyahbaniiObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDwsyahbaniiObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDBokriObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDBokriObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDBokriObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDdenyObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDdenyObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDdenyObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDanisaObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDanisaObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDanisaObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDilhamObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDilhamObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDilhamObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDtyaObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDtyaObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDtyaObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDalamObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDalamObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDalamObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDucupObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDucupObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDucupObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 for(var i = 0, len = gdjs.LorongCode.GDDandiObjects1.length ;i < len;++i) {
-    gdjs.LorongCode.GDDandiObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls102Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls102Objects1[0].getY()));
+    gdjs.LorongCode.GDDandiObjects1[i].setPosition((( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getX()),(( gdjs.LorongCode.GDtitikKls103Objects1.length === 0 ) ? 0 :gdjs.LorongCode.GDtitikKls103Objects1[0].getY()));
 }
 }
 }
@@ -262,7 +570,7 @@ for(var i = 0, len = gdjs.LorongCode.GDDandiObjects1.length ;i < len;++i) {
 }
 
 
-};gdjs.LorongCode.eventsList2 = function(runtimeScene) {
+};gdjs.LorongCode.eventsList4 = function(runtimeScene) {
 
 {
 
@@ -3384,17 +3692,17 @@ gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LorongCode.GDanisaObjects1
 gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LorongCode.GDdenyObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LorongCode.GDilhamObjects1);
 gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LorongCode.GDputraObjects1);
-gdjs.copyArray(runtimeScene.getObjects("toKelas"), gdjs.LorongCode.GDtoKelasObjects1);
+gdjs.copyArray(runtimeScene.getObjects("toKelas101"), gdjs.LorongCode.GDtoKelas101Objects1);
 gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LorongCode.GDtyaObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LorongCode.GDucupObjects1);
 gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LorongCode.GDwsyahbaniiObjects1);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelasObjects1Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas101Objects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12911684);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11576860);
 }
 }
 if (isConditionTrue_0) {
@@ -3406,6 +3714,82 @@ gdjs.copyArray(runtimeScene.getObjects("PintuKelas"), gdjs.LorongCode.GDPintuKel
 
 { //Subevents
 gdjs.LorongCode.eventsList0(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LorongCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LorongCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LorongCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LorongCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LorongCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LorongCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LorongCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LorongCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LorongCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("toKelas102"), gdjs.LorongCode.GDtoKelas102Objects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LorongCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LorongCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LorongCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas102Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9204652);
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("PintuKelas"), gdjs.LorongCode.GDPintuKelasObjects1);
+{for(var i = 0, len = gdjs.LorongCode.GDPintuKelasObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDPintuKelasObjects1[i].getBehavior("Animation").setAnimationName("Buka");
+}
+}
+
+{ //Subevents
+gdjs.LorongCode.eventsList1(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LorongCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LorongCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LorongCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LorongCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LorongCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LorongCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LorongCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LorongCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LorongCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("toKelas103"), gdjs.LorongCode.GDtoKelas103Objects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LorongCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LorongCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LorongCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas103Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12545396);
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("PintuKelas"), gdjs.LorongCode.GDPintuKelasObjects1);
+{for(var i = 0, len = gdjs.LorongCode.GDPintuKelasObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDPintuKelasObjects1[i].getBehavior("Animation").setAnimationName("Buka");
+}
+}
+
+{ //Subevents
+gdjs.LorongCode.eventsList2(runtimeScene);} //End of subevents
 }
 
 }
@@ -3733,14 +4117,24 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("titikKls101"), gdjs.LorongCode.GDtitikKls101Objects1);
 gdjs.copyArray(runtimeScene.getObjects("titikKls102"), gdjs.LorongCode.GDtitikKls102Objects1);
+gdjs.copyArray(runtimeScene.getObjects("titikKls103"), gdjs.LorongCode.GDtitikKls103Objects1);
 gdjs.copyArray(runtimeScene.getObjects("titikLobby"), gdjs.LorongCode.GDtitikLobbyObjects1);
 {for(var i = 0, len = gdjs.LorongCode.GDtitikLobbyObjects1.length ;i < len;++i) {
     gdjs.LorongCode.GDtitikLobbyObjects1[i].hide();
 }
 }
+{for(var i = 0, len = gdjs.LorongCode.GDtitikKls101Objects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDtitikKls101Objects1[i].hide();
+}
+}
 {for(var i = 0, len = gdjs.LorongCode.GDtitikKls102Objects1.length ;i < len;++i) {
     gdjs.LorongCode.GDtitikKls102Objects1[i].hide();
+}
+}
+{for(var i = 0, len = gdjs.LorongCode.GDtitikKls103Objects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDtitikKls103Objects1[i].hide();
 }
 }
 }
@@ -3755,9 +4149,58 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LorongCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LorongCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LorongCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LorongCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LorongCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LorongCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LorongCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LorongCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LorongCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LorongCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LorongCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LorongCode.GDwsyahbaniiObjects1);
+{for(var i = 0, len = gdjs.LorongCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDHaikalObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDNabilObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDputraObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDwsyahbaniiObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDBokriObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDdenyObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDanisaObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDilhamObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDtyaObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDalamObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDucupObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+for(var i = 0, len = gdjs.LorongCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.LorongCode.GDDandiObjects1[i].getBehavior("Animation").setAnimationName("IdleRight");
+}
+}
 
 { //Subevents
-gdjs.LorongCode.eventsList1(runtimeScene);} //End of subevents
+gdjs.LorongCode.eventsList3(runtimeScene);} //End of subevents
 }
 
 }
@@ -3777,9 +4220,9 @@ gdjs.LorongCode.GDDindingObjects3.length = 0;
 gdjs.LorongCode.GDWindowObjects1.length = 0;
 gdjs.LorongCode.GDWindowObjects2.length = 0;
 gdjs.LorongCode.GDWindowObjects3.length = 0;
-gdjs.LorongCode.GDV_9595103Objects1.length = 0;
-gdjs.LorongCode.GDV_9595103Objects2.length = 0;
-gdjs.LorongCode.GDV_9595103Objects3.length = 0;
+gdjs.LorongCode.GDV_9595102Objects1.length = 0;
+gdjs.LorongCode.GDV_9595102Objects2.length = 0;
+gdjs.LorongCode.GDV_9595102Objects3.length = 0;
 gdjs.LorongCode.GDPintuKelasObjects1.length = 0;
 gdjs.LorongCode.GDPintuKelasObjects2.length = 0;
 gdjs.LorongCode.GDPintuKelasObjects3.length = 0;
@@ -3789,21 +4232,36 @@ gdjs.LorongCode.GDNabil_9595SmokObjects3.length = 0;
 gdjs.LorongCode.GDsundaObjects1.length = 0;
 gdjs.LorongCode.GDsundaObjects2.length = 0;
 gdjs.LorongCode.GDsundaObjects3.length = 0;
-gdjs.LorongCode.GDV_9595104Objects1.length = 0;
-gdjs.LorongCode.GDV_9595104Objects2.length = 0;
-gdjs.LorongCode.GDV_9595104Objects3.length = 0;
+gdjs.LorongCode.GDV_9595101Objects1.length = 0;
+gdjs.LorongCode.GDV_9595101Objects2.length = 0;
+gdjs.LorongCode.GDV_9595101Objects3.length = 0;
 gdjs.LorongCode.GDPintuKelas2Objects1.length = 0;
 gdjs.LorongCode.GDPintuKelas2Objects2.length = 0;
 gdjs.LorongCode.GDPintuKelas2Objects3.length = 0;
-gdjs.LorongCode.GDtoKelasObjects1.length = 0;
-gdjs.LorongCode.GDtoKelasObjects2.length = 0;
-gdjs.LorongCode.GDtoKelasObjects3.length = 0;
+gdjs.LorongCode.GDtoKelas102Objects1.length = 0;
+gdjs.LorongCode.GDtoKelas102Objects2.length = 0;
+gdjs.LorongCode.GDtoKelas102Objects3.length = 0;
 gdjs.LorongCode.GDtitikLobbyObjects1.length = 0;
 gdjs.LorongCode.GDtitikLobbyObjects2.length = 0;
 gdjs.LorongCode.GDtitikLobbyObjects3.length = 0;
 gdjs.LorongCode.GDtitikKls102Objects1.length = 0;
 gdjs.LorongCode.GDtitikKls102Objects2.length = 0;
 gdjs.LorongCode.GDtitikKls102Objects3.length = 0;
+gdjs.LorongCode.GDV_9595103Objects1.length = 0;
+gdjs.LorongCode.GDV_9595103Objects2.length = 0;
+gdjs.LorongCode.GDV_9595103Objects3.length = 0;
+gdjs.LorongCode.GDtitikKls103Objects1.length = 0;
+gdjs.LorongCode.GDtitikKls103Objects2.length = 0;
+gdjs.LorongCode.GDtitikKls103Objects3.length = 0;
+gdjs.LorongCode.GDtitikKls101Objects1.length = 0;
+gdjs.LorongCode.GDtitikKls101Objects2.length = 0;
+gdjs.LorongCode.GDtitikKls101Objects3.length = 0;
+gdjs.LorongCode.GDtoKelas101Objects1.length = 0;
+gdjs.LorongCode.GDtoKelas101Objects2.length = 0;
+gdjs.LorongCode.GDtoKelas101Objects3.length = 0;
+gdjs.LorongCode.GDtoKelas103Objects1.length = 0;
+gdjs.LorongCode.GDtoKelas103Objects2.length = 0;
+gdjs.LorongCode.GDtoKelas103Objects3.length = 0;
 gdjs.LorongCode.GDwsyahbaniiObjects1.length = 0;
 gdjs.LorongCode.GDwsyahbaniiObjects2.length = 0;
 gdjs.LorongCode.GDwsyahbaniiObjects3.length = 0;
@@ -3856,7 +4314,7 @@ gdjs.LorongCode.GDDandiObjects1.length = 0;
 gdjs.LorongCode.GDDandiObjects2.length = 0;
 gdjs.LorongCode.GDDandiObjects3.length = 0;
 
-gdjs.LorongCode.eventsList2(runtimeScene);
+gdjs.LorongCode.eventsList4(runtimeScene);
 gdjs.LorongCode.GDLantaiKampusObjects1.length = 0;
 gdjs.LorongCode.GDLantaiKampusObjects2.length = 0;
 gdjs.LorongCode.GDLantaiKampusObjects3.length = 0;
@@ -3866,9 +4324,9 @@ gdjs.LorongCode.GDDindingObjects3.length = 0;
 gdjs.LorongCode.GDWindowObjects1.length = 0;
 gdjs.LorongCode.GDWindowObjects2.length = 0;
 gdjs.LorongCode.GDWindowObjects3.length = 0;
-gdjs.LorongCode.GDV_9595103Objects1.length = 0;
-gdjs.LorongCode.GDV_9595103Objects2.length = 0;
-gdjs.LorongCode.GDV_9595103Objects3.length = 0;
+gdjs.LorongCode.GDV_9595102Objects1.length = 0;
+gdjs.LorongCode.GDV_9595102Objects2.length = 0;
+gdjs.LorongCode.GDV_9595102Objects3.length = 0;
 gdjs.LorongCode.GDPintuKelasObjects1.length = 0;
 gdjs.LorongCode.GDPintuKelasObjects2.length = 0;
 gdjs.LorongCode.GDPintuKelasObjects3.length = 0;
@@ -3878,21 +4336,36 @@ gdjs.LorongCode.GDNabil_9595SmokObjects3.length = 0;
 gdjs.LorongCode.GDsundaObjects1.length = 0;
 gdjs.LorongCode.GDsundaObjects2.length = 0;
 gdjs.LorongCode.GDsundaObjects3.length = 0;
-gdjs.LorongCode.GDV_9595104Objects1.length = 0;
-gdjs.LorongCode.GDV_9595104Objects2.length = 0;
-gdjs.LorongCode.GDV_9595104Objects3.length = 0;
+gdjs.LorongCode.GDV_9595101Objects1.length = 0;
+gdjs.LorongCode.GDV_9595101Objects2.length = 0;
+gdjs.LorongCode.GDV_9595101Objects3.length = 0;
 gdjs.LorongCode.GDPintuKelas2Objects1.length = 0;
 gdjs.LorongCode.GDPintuKelas2Objects2.length = 0;
 gdjs.LorongCode.GDPintuKelas2Objects3.length = 0;
-gdjs.LorongCode.GDtoKelasObjects1.length = 0;
-gdjs.LorongCode.GDtoKelasObjects2.length = 0;
-gdjs.LorongCode.GDtoKelasObjects3.length = 0;
+gdjs.LorongCode.GDtoKelas102Objects1.length = 0;
+gdjs.LorongCode.GDtoKelas102Objects2.length = 0;
+gdjs.LorongCode.GDtoKelas102Objects3.length = 0;
 gdjs.LorongCode.GDtitikLobbyObjects1.length = 0;
 gdjs.LorongCode.GDtitikLobbyObjects2.length = 0;
 gdjs.LorongCode.GDtitikLobbyObjects3.length = 0;
 gdjs.LorongCode.GDtitikKls102Objects1.length = 0;
 gdjs.LorongCode.GDtitikKls102Objects2.length = 0;
 gdjs.LorongCode.GDtitikKls102Objects3.length = 0;
+gdjs.LorongCode.GDV_9595103Objects1.length = 0;
+gdjs.LorongCode.GDV_9595103Objects2.length = 0;
+gdjs.LorongCode.GDV_9595103Objects3.length = 0;
+gdjs.LorongCode.GDtitikKls103Objects1.length = 0;
+gdjs.LorongCode.GDtitikKls103Objects2.length = 0;
+gdjs.LorongCode.GDtitikKls103Objects3.length = 0;
+gdjs.LorongCode.GDtitikKls101Objects1.length = 0;
+gdjs.LorongCode.GDtitikKls101Objects2.length = 0;
+gdjs.LorongCode.GDtitikKls101Objects3.length = 0;
+gdjs.LorongCode.GDtoKelas101Objects1.length = 0;
+gdjs.LorongCode.GDtoKelas101Objects2.length = 0;
+gdjs.LorongCode.GDtoKelas101Objects3.length = 0;
+gdjs.LorongCode.GDtoKelas103Objects1.length = 0;
+gdjs.LorongCode.GDtoKelas103Objects2.length = 0;
+gdjs.LorongCode.GDtoKelas103Objects3.length = 0;
 gdjs.LorongCode.GDwsyahbaniiObjects1.length = 0;
 gdjs.LorongCode.GDwsyahbaniiObjects2.length = 0;
 gdjs.LorongCode.GDwsyahbaniiObjects3.length = 0;

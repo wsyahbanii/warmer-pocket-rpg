@@ -2,7 +2,7 @@
   "name": "WARMER Pocket RPG: UNPAM VIKTOR",
   "short_name": "WARMER Pocket RPG: UNPAM VIKTOR",
   "id": "com.example.gamename",
-  "description": "",
+  "description": "A pixel-art top-down RPG demo set within the Universitas Pamulang campus, built with GDevelop — featuring a PokeMMO-style overworld, character movement, and exploration around a familiar academic setting reimagined as an adventure map.",
   "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",

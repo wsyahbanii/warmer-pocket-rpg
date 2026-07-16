@@ -85,13 +85,13 @@ gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDDinginggObjects1O
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDDinginggObjects1Objects = Hashtable.newFrom({"Dingingg": gdjs.LobbyGd_46ACode.GDDinginggObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDDinginggObjects1Objects = Hashtable.newFrom({"Dingingg": gdjs.LobbyGd_46ACode.GDDinginggObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDDinginggObjects1Objects = Hashtable.newFrom({"Dingingg": gdjs.LobbyGd_46ACode.GDDinginggObjects1});
-gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDHaikalObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDNabilObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDputraObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDBokriObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDdenyObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDanisaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDilhamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDtyaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDalamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDucupObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LobbyGd_46ACode.GDHaikalObjects1, "Nabil": gdjs.LobbyGd_46ACode.GDNabilObjects1, "putra": gdjs.LobbyGd_46ACode.GDputraObjects1, "wsyahbanii": gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1, "Bokri": gdjs.LobbyGd_46ACode.GDBokriObjects1, "deny": gdjs.LobbyGd_46ACode.GDdenyObjects1, "anisa": gdjs.LobbyGd_46ACode.GDanisaObjects1, "ilham": gdjs.LobbyGd_46ACode.GDilhamObjects1, "tya": gdjs.LobbyGd_46ACode.GDtyaObjects1, "alam": gdjs.LobbyGd_46ACode.GDalamObjects1, "ucup": gdjs.LobbyGd_46ACode.GDucupObjects1, "Dandi": gdjs.LobbyGd_46ACode.GDDandiObjects1});
-gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDToLorongObjects1Objects = Hashtable.newFrom({"ToLorong": gdjs.LobbyGd_46ACode.GDToLorongObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDTombolAtasObjects1Objects = Hashtable.newFrom({"TombolAtas": gdjs.LobbyGd_46ACode.GDTombolAtasObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDTombolKiriObjects1Objects = Hashtable.newFrom({"TombolKiri": gdjs.LobbyGd_46ACode.GDTombolKiriObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDTombolKananObjects1Objects = Hashtable.newFrom({"TombolKanan": gdjs.LobbyGd_46ACode.GDTombolKananObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDTombolBawahObjects1Objects = Hashtable.newFrom({"TombolBawah": gdjs.LobbyGd_46ACode.GDTombolBawahObjects1});
 gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDKembaliObjects1Objects = Hashtable.newFrom({"Kembali": gdjs.LobbyGd_46ACode.GDKembaliObjects1});
+gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDHaikalObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDNabilObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDputraObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDBokriObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDdenyObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDanisaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDilhamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDtyaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDalamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDucupObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LobbyGd_46ACode.GDHaikalObjects1, "Nabil": gdjs.LobbyGd_46ACode.GDNabilObjects1, "putra": gdjs.LobbyGd_46ACode.GDputraObjects1, "wsyahbanii": gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1, "Bokri": gdjs.LobbyGd_46ACode.GDBokriObjects1, "deny": gdjs.LobbyGd_46ACode.GDdenyObjects1, "anisa": gdjs.LobbyGd_46ACode.GDanisaObjects1, "ilham": gdjs.LobbyGd_46ACode.GDilhamObjects1, "tya": gdjs.LobbyGd_46ACode.GDtyaObjects1, "alam": gdjs.LobbyGd_46ACode.GDalamObjects1, "ucup": gdjs.LobbyGd_46ACode.GDucupObjects1, "Dandi": gdjs.LobbyGd_46ACode.GDDandiObjects1});
+gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDToLorongObjects1Objects = Hashtable.newFrom({"ToLorong": gdjs.LobbyGd_46ACode.GDToLorongObjects1});
 gdjs.LobbyGd_46ACode.eventsList0 = function(runtimeScene) {
 
 {
@@ -1051,33 +1051,6 @@ gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LobbyGd_46ACode.GDtyaObjects
 gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LobbyGd_46ACode.GDucupObjects1);
 gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1);
 {gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.LobbyGd_46ACode.GDHaikalObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDHaikalObjects1[0] : (gdjs.LobbyGd_46ACode.GDNabilObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDNabilObjects1[0] : (gdjs.LobbyGd_46ACode.GDputraObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDputraObjects1[0] : (gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1[0] : (gdjs.LobbyGd_46ACode.GDBokriObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDBokriObjects1[0] : (gdjs.LobbyGd_46ACode.GDdenyObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDdenyObjects1[0] : (gdjs.LobbyGd_46ACode.GDanisaObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDanisaObjects1[0] : (gdjs.LobbyGd_46ACode.GDilhamObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDilhamObjects1[0] : (gdjs.LobbyGd_46ACode.GDtyaObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDtyaObjects1[0] : (gdjs.LobbyGd_46ACode.GDalamObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDalamObjects1[0] : (gdjs.LobbyGd_46ACode.GDucupObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDucupObjects1[0] : (gdjs.LobbyGd_46ACode.GDDandiObjects1.length !== 0 ? gdjs.LobbyGd_46ACode.GDDandiObjects1[0] : null)))))))))))), true, "", gdjs.evtTools.camera.getCameraHeight(runtimeScene, "100", 1));
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LobbyGd_46ACode.GDBokriObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LobbyGd_46ACode.GDDandiObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LobbyGd_46ACode.GDHaikalObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LobbyGd_46ACode.GDNabilObjects1);
-gdjs.copyArray(runtimeScene.getObjects("ToLorong"), gdjs.LobbyGd_46ACode.GDToLorongObjects1);
-gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LobbyGd_46ACode.GDalamObjects1);
-gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LobbyGd_46ACode.GDanisaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LobbyGd_46ACode.GDdenyObjects1);
-gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LobbyGd_46ACode.GDilhamObjects1);
-gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LobbyGd_46ACode.GDputraObjects1);
-gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LobbyGd_46ACode.GDtyaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LobbyGd_46ACode.GDucupObjects1);
-gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDHaikalObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDNabilObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDputraObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDBokriObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDdenyObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDanisaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDilhamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDtyaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDalamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDucupObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDDandiObjects1Objects, gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDToLorongObjects1Objects, false, runtimeScene, false);
-if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Lorong", false);
 }
 }
 
@@ -3543,6 +3516,33 @@ isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left
 }
 if (isConditionTrue_0) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "MenuKarakter", false);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.LobbyGd_46ACode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.LobbyGd_46ACode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.LobbyGd_46ACode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.LobbyGd_46ACode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ToLorong"), gdjs.LobbyGd_46ACode.GDToLorongObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.LobbyGd_46ACode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.LobbyGd_46ACode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.LobbyGd_46ACode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.LobbyGd_46ACode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.LobbyGd_46ACode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.LobbyGd_46ACode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.LobbyGd_46ACode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDHaikalObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDNabilObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDputraObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDBokriObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDdenyObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDanisaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDilhamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDtyaObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDalamObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDucupObjects1ObjectsGDgdjs_9546LobbyGd_959546ACode_9546GDDandiObjects1Objects, gdjs.LobbyGd_46ACode.mapOfGDgdjs_9546LobbyGd_959546ACode_9546GDToLorongObjects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Lorong", false);
 }
 }
 
