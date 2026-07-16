@@ -3549,6 +3549,28 @@ if (isConditionTrue_0) {
 }
 
 
+{
+
+
+let isConditionTrue_0 = false;
+{
+{runtimeScene.getGame().getVariables().getFromIndex(1).setNumber(1);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
 };
 
 gdjs.LobbyGd_46ACode.func = function(runtimeScene) {

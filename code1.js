@@ -3711,7 +3711,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(13006956);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9474172);
 }
 }
 }
@@ -3744,6 +3744,28 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+{runtimeScene.getGame().getVariables().getFromIndex(1).setNumber(2);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
 }
 
 }
