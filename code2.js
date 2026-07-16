@@ -35,6 +35,8 @@ gdjs.LobbyGd_46ACode.GDPeganganTangga3Objects1= [];
 gdjs.LobbyGd_46ACode.GDPeganganTangga3Objects2= [];
 gdjs.LobbyGd_46ACode.GDToBasementObjects1= [];
 gdjs.LobbyGd_46ACode.GDToBasementObjects2= [];
+gdjs.LobbyGd_46ACode.GDTransisiHitamObjects1= [];
+gdjs.LobbyGd_46ACode.GDTransisiHitamObjects2= [];
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1= [];
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects2= [];
 gdjs.LobbyGd_46ACode.GDNabilObjects1= [];
@@ -3202,6 +3204,8 @@ isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 {gdjs.evtTools.camera.setCameraZoom(runtimeScene, 0.4, "", 1);
 }
+{gdjs.evtTools.sound.continueMusicOnChannel(runtimeScene, 1);
+}
 }
 
 }
@@ -3610,6 +3614,8 @@ gdjs.LobbyGd_46ACode.GDPeganganTangga3Objects1.length = 0;
 gdjs.LobbyGd_46ACode.GDPeganganTangga3Objects2.length = 0;
 gdjs.LobbyGd_46ACode.GDToBasementObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDToBasementObjects2.length = 0;
+gdjs.LobbyGd_46ACode.GDTransisiHitamObjects1.length = 0;
+gdjs.LobbyGd_46ACode.GDTransisiHitamObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDNabilObjects1.length = 0;
@@ -3680,6 +3686,8 @@ gdjs.LobbyGd_46ACode.GDPeganganTangga3Objects1.length = 0;
 gdjs.LobbyGd_46ACode.GDPeganganTangga3Objects2.length = 0;
 gdjs.LobbyGd_46ACode.GDToBasementObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDToBasementObjects2.length = 0;
+gdjs.LobbyGd_46ACode.GDTransisiHitamObjects1.length = 0;
+gdjs.LobbyGd_46ACode.GDTransisiHitamObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDNabilObjects1.length = 0;

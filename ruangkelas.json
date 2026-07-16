@@ -5,7 +5,7 @@
   "name": "RuangKelas",
   "r": 247,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 249,
   "uiSettings": {
@@ -3462,6 +3462,15 @@
             "Animation",
             "=",
             "\"IdleUp\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ResumeMusicChannel"
+          },
+          "parameters": [
+            "",
+            "1"
           ]
         }
       ]

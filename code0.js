@@ -4137,6 +4137,8 @@ gdjs.copyArray(runtimeScene.getObjects("titikLobby"), gdjs.LorongCode.GDtitikLob
     gdjs.LorongCode.GDtitikKls103Objects1[i].hide();
 }
 }
+{gdjs.evtTools.sound.continueMusicOnChannel(runtimeScene, 1);
+}
 }
 
 }

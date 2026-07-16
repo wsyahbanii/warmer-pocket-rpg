@@ -3853,6 +3853,8 @@ for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
     gdjs.RuangKelasCode.GDDandiObjects1[i].getBehavior("Animation").setAnimationName("IdleUp");
 }
 }
+{gdjs.evtTools.sound.continueMusicOnChannel(runtimeScene, 1);
+}
 }
 
 }

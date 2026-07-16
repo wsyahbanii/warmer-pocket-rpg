@@ -5,7 +5,7 @@
   "name": "Lorong",
   "r": 247,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 249,
   "uiSettings": {
@@ -29,7 +29,6 @@
   "variables": [
     {
       "name": "Variable",
-      "persistentUuid": "cfa58166-4474-4e19-afb7-de2dd074922c",
       "type": "number",
       "value": 0
     }
@@ -3911,6 +3910,15 @@
           },
           "parameters": [
             "titikKls103"
+          ]
+        },
+        {
+          "type": {
+            "value": "ResumeMusicChannel"
+          },
+          "parameters": [
+            "",
+            "1"
           ]
         }
       ]

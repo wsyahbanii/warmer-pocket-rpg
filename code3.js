@@ -93,7 +93,7 @@ gdjs.MenuKarakterCode.GDDandiObjects1= [];
 gdjs.MenuKarakterCode.GDDandiObjects2= [];
 
 
-gdjs.MenuKarakterCode.userFunc0xb45d10 = function GDJSInlineCode(runtimeScene) {
+gdjs.MenuKarakterCode.userFunc0xf0b4c8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // Cegah kode disuntikkan berkali-kali
 if (!window.gtagTelahMasuk) {
@@ -159,7 +159,7 @@ gdjs.MenuKarakterCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.MenuKarakterCode.userFunc0xb45d10(runtimeScene);
+gdjs.MenuKarakterCode.userFunc0xf0b4c8(runtimeScene);
 
 }
 
@@ -170,6 +170,10 @@ gdjs.MenuKarakterCode.userFunc0xb45d10(runtimeScene);
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = !(gdjs.evtTools.sound.isSoundOnChannelPlaying(runtimeScene, 1));
+}
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("NamaAlam"), gdjs.MenuKarakterCode.GDNamaAlamObjects1);
 gdjs.copyArray(runtimeScene.getObjects("NamaAnisa"), gdjs.MenuKarakterCode.GDNamaAnisaObjects1);
@@ -230,6 +234,8 @@ gdjs.copyArray(runtimeScene.getObjects("NamaUcup"), gdjs.MenuKarakterCode.GDNama
 {for(var i = 0, len = gdjs.MenuKarakterCode.GDNamaDandiObjects1.length ;i < len;++i) {
     gdjs.MenuKarakterCode.GDNamaDandiObjects1[i].hide();
 }
+}
+{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "backsound-warmer-pocket-rpg.ogg", 1, true, 40, 1);
 }
 }
 

@@ -5,7 +5,7 @@
   "name": "MenuKarakter",
   "r": 247,
   "standardSortMethod": true,
-  "stopSoundsOnStartup": true,
+  "stopSoundsOnStartup": false,
   "title": "",
   "v": 249,
   "uiSettings": {
@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3216911764705912,
+    "zoomFactor": 0.19561100536769466,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -2520,6 +2520,16 @@
           "parameters": [
             ""
           ]
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "SoundPlaying"
+          },
+          "parameters": [
+            "",
+            "1"
+          ]
         }
       ],
       "actions": [
@@ -2617,6 +2627,19 @@
           },
           "parameters": [
             "NamaDandi"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicOnChannel"
+          },
+          "parameters": [
+            "",
+            "backsound-warmer-pocket-rpg.ogg",
+            "1",
+            "yes",
+            "40",
+            "1"
           ]
         }
       ]
