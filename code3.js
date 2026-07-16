@@ -93,6 +93,31 @@ gdjs.MenuKarakterCode.GDDandiObjects1= [];
 gdjs.MenuKarakterCode.GDDandiObjects2= [];
 
 
+gdjs.MenuKarakterCode.userFunc0x9e3ea0 = function GDJSInlineCode(runtimeScene) {
+"use strict";
+// Cegah kode disuntikkan berkali-kali
+if (!window.gtagTelahMasuk) {
+    
+    // 1. Membuat script async eksternal
+    var script1 = document.createElement('script');
+    script1.async = true;
+    script1.src = 'https://www.googletagmanager.com/gtag/js?id=G-7RT2K4GWKD';
+    document.head.appendChild(script1);
+
+    // 2. Membuat script konfigurasi gtag
+    var script2 = document.createElement('script');
+    script2.innerHTML = `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7RT2K4GWKD');
+    `;
+    document.head.appendChild(script2);
+
+    // 3. Kunci agar tidak dieksekusi lagi
+    window.gtagTelahMasuk = true;
+}
+};
 gdjs.MenuKarakterCode.mapOfGDgdjs_9546MenuKarakterCode_9546GDTombolBaniObjects1Objects = Hashtable.newFrom({"TombolBani": gdjs.MenuKarakterCode.GDTombolBaniObjects1});
 gdjs.MenuKarakterCode.mapOfGDgdjs_9546MenuKarakterCode_9546GDTombolBokriObjects1Objects = Hashtable.newFrom({"TombolBokri": gdjs.MenuKarakterCode.GDTombolBokriObjects1});
 gdjs.MenuKarakterCode.mapOfGDgdjs_9546MenuKarakterCode_9546GDTombolHaikalObjects1Objects = Hashtable.newFrom({"TombolHaikal": gdjs.MenuKarakterCode.GDTombolHaikalObjects1});
@@ -130,6 +155,14 @@ gdjs.MenuKarakterCode.mapOfGDgdjs_9546MenuKarakterCode_9546GDTombolIlhamObjects1
 gdjs.MenuKarakterCode.mapOfGDgdjs_9546MenuKarakterCode_9546GDTombolDandiObjects1Objects = Hashtable.newFrom({"TombolDandi": gdjs.MenuKarakterCode.GDTombolDandiObjects1});
 gdjs.MenuKarakterCode.mapOfGDgdjs_9546MenuKarakterCode_9546GDTombolDandiObjects1Objects = Hashtable.newFrom({"TombolDandi": gdjs.MenuKarakterCode.GDTombolDandiObjects1});
 gdjs.MenuKarakterCode.eventsList0 = function(runtimeScene) {
+
+{
+
+
+gdjs.MenuKarakterCode.userFunc0x9e3ea0(runtimeScene);
+
+}
+
 
 {
 
@@ -198,6 +231,16 @@ gdjs.copyArray(runtimeScene.getObjects("NamaUcup"), gdjs.MenuKarakterCode.GDNama
     gdjs.MenuKarakterCode.GDNamaDandiObjects1[i].hide();
 }
 }
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
 }
 
 }
