@@ -3247,6 +3247,20 @@ if (isConditionTrue_0) {
 
 {
 
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.systemInfo.isNativeDesktopApp(runtimeScene);
+if (isConditionTrue_0) {
+{gdjs.evtTools.camera.showLayer(runtimeScene, "UIMenu");
+}
+}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("TombolAtas"), gdjs.LobbyGd_46ACode.GDTombolAtasObjects1);
 
 let isConditionTrue_0 = false;
