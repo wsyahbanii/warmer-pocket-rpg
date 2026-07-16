@@ -37,6 +37,8 @@ gdjs.LobbyGd_46ACode.GDToBasementObjects1= [];
 gdjs.LobbyGd_46ACode.GDToBasementObjects2= [];
 gdjs.LobbyGd_46ACode.GDTransisiHitamObjects1= [];
 gdjs.LobbyGd_46ACode.GDTransisiHitamObjects2= [];
+gdjs.LobbyGd_46ACode.GDMesin_9595ATMObjects1= [];
+gdjs.LobbyGd_46ACode.GDMesin_9595ATMObjects2= [];
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1= [];
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects2= [];
 gdjs.LobbyGd_46ACode.GDNabilObjects1= [];
@@ -3565,16 +3567,6 @@ let isConditionTrue_0 = false;
 }
 
 
-{
-
-
-let isConditionTrue_0 = false;
-{
-}
-
-}
-
-
 };
 
 gdjs.LobbyGd_46ACode.func = function(runtimeScene) {
@@ -3616,6 +3608,8 @@ gdjs.LobbyGd_46ACode.GDToBasementObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDToBasementObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDTransisiHitamObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDTransisiHitamObjects2.length = 0;
+gdjs.LobbyGd_46ACode.GDMesin_9595ATMObjects1.length = 0;
+gdjs.LobbyGd_46ACode.GDMesin_9595ATMObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDNabilObjects1.length = 0;
@@ -3688,6 +3682,8 @@ gdjs.LobbyGd_46ACode.GDToBasementObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDToBasementObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDTransisiHitamObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDTransisiHitamObjects2.length = 0;
+gdjs.LobbyGd_46ACode.GDMesin_9595ATMObjects1.length = 0;
+gdjs.LobbyGd_46ACode.GDMesin_9595ATMObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects1.length = 0;
 gdjs.LobbyGd_46ACode.GDwsyahbaniiObjects2.length = 0;
 gdjs.LobbyGd_46ACode.GDNabilObjects1.length = 0;

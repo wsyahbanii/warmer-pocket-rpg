@@ -64,6 +64,27 @@ gdjs.RuangKelasCode.GDKeluar103Objects3= [];
 gdjs.RuangKelasCode.GDKeluar101Objects1= [];
 gdjs.RuangKelasCode.GDKeluar101Objects2= [];
 gdjs.RuangKelasCode.GDKeluar101Objects3= [];
+gdjs.RuangKelasCode.GDBangkuObjects1= [];
+gdjs.RuangKelasCode.GDBangkuObjects2= [];
+gdjs.RuangKelasCode.GDBangkuObjects3= [];
+gdjs.RuangKelasCode.GDBangku2Objects1= [];
+gdjs.RuangKelasCode.GDBangku2Objects2= [];
+gdjs.RuangKelasCode.GDBangku2Objects3= [];
+gdjs.RuangKelasCode.GDBangku3Objects1= [];
+gdjs.RuangKelasCode.GDBangku3Objects2= [];
+gdjs.RuangKelasCode.GDBangku3Objects3= [];
+gdjs.RuangKelasCode.GDBangku4Objects1= [];
+gdjs.RuangKelasCode.GDBangku4Objects2= [];
+gdjs.RuangKelasCode.GDBangku4Objects3= [];
+gdjs.RuangKelasCode.GDBangku5Objects1= [];
+gdjs.RuangKelasCode.GDBangku5Objects2= [];
+gdjs.RuangKelasCode.GDBangku5Objects3= [];
+gdjs.RuangKelasCode.GDMejaDosenObjects1= [];
+gdjs.RuangKelasCode.GDMejaDosenObjects2= [];
+gdjs.RuangKelasCode.GDMejaDosenObjects3= [];
+gdjs.RuangKelasCode.GDMejaDosen2Objects1= [];
+gdjs.RuangKelasCode.GDMejaDosen2Objects2= [];
+gdjs.RuangKelasCode.GDMejaDosen2Objects3= [];
 gdjs.RuangKelasCode.GDwsyahbaniiObjects1= [];
 gdjs.RuangKelasCode.GDwsyahbaniiObjects2= [];
 gdjs.RuangKelasCode.GDwsyahbaniiObjects3= [];
@@ -136,6 +157,104 @@ gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDDindingObjects1Objects 
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.RuangKelasCode.GDDindingObjects1});
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.RuangKelasCode.GDDindingObjects1});
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.RuangKelasCode.GDDindingObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects = Hashtable.newFrom({"Bangku": gdjs.RuangKelasCode.GDBangkuObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects = Hashtable.newFrom({"Bangku5": gdjs.RuangKelasCode.GDBangku5Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects = Hashtable.newFrom({"Bangku4": gdjs.RuangKelasCode.GDBangku4Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects = Hashtable.newFrom({"Bangku3": gdjs.RuangKelasCode.GDBangku3Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects = Hashtable.newFrom({"Bangku2": gdjs.RuangKelasCode.GDBangku2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects = Hashtable.newFrom({"MejaDosen": gdjs.RuangKelasCode.GDMejaDosenObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.RuangKelasCode.GDHaikalObjects1, "Nabil": gdjs.RuangKelasCode.GDNabilObjects1, "putra": gdjs.RuangKelasCode.GDputraObjects1, "wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1, "Bokri": gdjs.RuangKelasCode.GDBokriObjects1, "deny": gdjs.RuangKelasCode.GDdenyObjects1, "anisa": gdjs.RuangKelasCode.GDanisaObjects1, "ilham": gdjs.RuangKelasCode.GDilhamObjects1, "tya": gdjs.RuangKelasCode.GDtyaObjects1, "alam": gdjs.RuangKelasCode.GDalamObjects1, "ucup": gdjs.RuangKelasCode.GDucupObjects1, "Dandi": gdjs.RuangKelasCode.GDDandiObjects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
+gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects = Hashtable.newFrom({"MejaDosen2": gdjs.RuangKelasCode.GDMejaDosen2Objects1});
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1Objects = Hashtable.newFrom({"wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1});
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDNabilObjects1Objects = Hashtable.newFrom({"Nabil": gdjs.RuangKelasCode.GDNabilObjects1});
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1Objects = Hashtable.newFrom({"wsyahbanii": gdjs.RuangKelasCode.GDwsyahbaniiObjects1});
@@ -1594,6 +1713,531 @@ for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
 }
 for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
     gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDDindingObjects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bangku"), gdjs.RuangKelasCode.GDBangkuObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBangkuObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangkuObjects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bangku5"), gdjs.RuangKelasCode.GDBangku5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBangku5Objects1 */
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku5Objects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bangku4"), gdjs.RuangKelasCode.GDBangku4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBangku4Objects1 */
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku4Objects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bangku3"), gdjs.RuangKelasCode.GDBangku3Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBangku3Objects1 */
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku3Objects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bangku2"), gdjs.RuangKelasCode.GDBangku2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBangku2Objects1 */
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDBangku2Objects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MejaDosen"), gdjs.RuangKelasCode.GDMejaDosenObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDMejaDosenObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosenObjects1Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MejaDosen2"), gdjs.RuangKelasCode.GDMejaDosen2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDHaikalObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDNabilObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDputraObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDBokriObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDdenyObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDanisaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDilhamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDtyaObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDalamObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDucupObjects1ObjectsGDgdjs_9546RuangKelasCode_9546GDDandiObjects1Objects, gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.RuangKelasCode.GDBokriObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDDandiObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDHaikalObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDMejaDosen2Objects1 */
+/* Reuse gdjs.RuangKelasCode.GDNabilObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDalamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDanisaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDdenyObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDilhamObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDputraObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDtyaObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDucupObjects1 */
+/* Reuse gdjs.RuangKelasCode.GDwsyahbaniiObjects1 */
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].separateFromObjectsList(gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDMejaDosen2Objects1Objects, false);
 }
 }
 }
@@ -3969,7 +4613,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9474172);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11973604);
 }
 }
 }
@@ -4110,6 +4754,135 @@ if (isConditionTrue_0) {
 
 
 let isConditionTrue_0 = false;
+{
+gdjs.copyArray(runtimeScene.getObjects("Bangku"), gdjs.RuangKelasCode.GDBangkuObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Bangku2"), gdjs.RuangKelasCode.GDBangku2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bangku3"), gdjs.RuangKelasCode.GDBangku3Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bangku4"), gdjs.RuangKelasCode.GDBangku4Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bangku5"), gdjs.RuangKelasCode.GDBangku5Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.RuangKelasCode.GDBokriObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.RuangKelasCode.GDDandiObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dinding"), gdjs.RuangKelasCode.GDDindingObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Dinding2"), gdjs.RuangKelasCode.GDDinding2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.RuangKelasCode.GDHaikalObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MejaDosen"), gdjs.RuangKelasCode.GDMejaDosenObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MejaDosen2"), gdjs.RuangKelasCode.GDMejaDosen2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.RuangKelasCode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("PintuKeluar"), gdjs.RuangKelasCode.GDPintuKeluarObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Window"), gdjs.RuangKelasCode.GDWindowObjects1);
+gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.RuangKelasCode.GDalamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("anisa"), gdjs.RuangKelasCode.GDanisaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("deny"), gdjs.RuangKelasCode.GDdenyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ilham"), gdjs.RuangKelasCode.GDilhamObjects1);
+gdjs.copyArray(runtimeScene.getObjects("putra"), gdjs.RuangKelasCode.GDputraObjects1);
+gdjs.copyArray(runtimeScene.getObjects("tya"), gdjs.RuangKelasCode.GDtyaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.RuangKelasCode.GDucupObjects1);
+gdjs.copyArray(runtimeScene.getObjects("v_101"), gdjs.RuangKelasCode.GDv_9595101Objects1);
+gdjs.copyArray(runtimeScene.getObjects("v_102"), gdjs.RuangKelasCode.GDv_9595102Objects1);
+gdjs.copyArray(runtimeScene.getObjects("v_103"), gdjs.RuangKelasCode.GDv_9595103Objects1);
+gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.RuangKelasCode.GDwsyahbaniiObjects1);
+{for(var i = 0, len = gdjs.RuangKelasCode.GDHaikalObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDHaikalObjects1[i].setZOrder((gdjs.RuangKelasCode.GDHaikalObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDNabilObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDNabilObjects1[i].setZOrder((gdjs.RuangKelasCode.GDNabilObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDputraObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDputraObjects1[i].setZOrder((gdjs.RuangKelasCode.GDputraObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].setZOrder((gdjs.RuangKelasCode.GDwsyahbaniiObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDBokriObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBokriObjects1[i].setZOrder((gdjs.RuangKelasCode.GDBokriObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDdenyObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDdenyObjects1[i].setZOrder((gdjs.RuangKelasCode.GDdenyObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDanisaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDanisaObjects1[i].setZOrder((gdjs.RuangKelasCode.GDanisaObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDilhamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDilhamObjects1[i].setZOrder((gdjs.RuangKelasCode.GDilhamObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDtyaObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDtyaObjects1[i].setZOrder((gdjs.RuangKelasCode.GDtyaObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDalamObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDalamObjects1[i].setZOrder((gdjs.RuangKelasCode.GDalamObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDucupObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDucupObjects1[i].setZOrder((gdjs.RuangKelasCode.GDucupObjects1[i].getPointY("")));
+}
+for(var i = 0, len = gdjs.RuangKelasCode.GDDandiObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDandiObjects1[i].setZOrder((gdjs.RuangKelasCode.GDDandiObjects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDBangkuObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBangkuObjects1[i].setZOrder((gdjs.RuangKelasCode.GDBangkuObjects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDBangku2Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBangku2Objects1[i].setZOrder((gdjs.RuangKelasCode.GDBangku2Objects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDBangku3Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBangku3Objects1[i].setZOrder((gdjs.RuangKelasCode.GDBangku3Objects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDBangku4Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBangku4Objects1[i].setZOrder((gdjs.RuangKelasCode.GDBangku4Objects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDMejaDosenObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDMejaDosenObjects1[i].setZOrder((gdjs.RuangKelasCode.GDMejaDosenObjects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDBangku5Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDBangku5Objects1[i].setZOrder((gdjs.RuangKelasCode.GDBangku5Objects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDMejaDosen2Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDMejaDosen2Objects1[i].setZOrder((gdjs.RuangKelasCode.GDMejaDosen2Objects1[i].getPointY("")));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDDindingObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDindingObjects1[i].setZOrder((gdjs.RuangKelasCode.GDDindingObjects1[i].getY()) + (gdjs.RuangKelasCode.GDDindingObjects1[i].getHeight()));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDDinding2Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDDinding2Objects1[i].setZOrder((gdjs.RuangKelasCode.GDDinding2Objects1[i].getY()) + (gdjs.RuangKelasCode.GDDinding2Objects1[i].getHeight()));
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDPintuKeluarObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDPintuKeluarObjects1[i].setZOrder((gdjs.RuangKelasCode.GDPintuKeluarObjects1[i].getY()) + (gdjs.RuangKelasCode.GDPintuKeluarObjects1[i].getHeight()) - 100);
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDWindowObjects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDWindowObjects1[i].setZOrder((gdjs.RuangKelasCode.GDWindowObjects1[i].getY()) + (gdjs.RuangKelasCode.GDWindowObjects1[i].getHeight()) + 900);
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDv_9595101Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDv_9595101Objects1[i].setZOrder((gdjs.RuangKelasCode.GDv_9595101Objects1[i].getY()) + (gdjs.RuangKelasCode.GDv_9595101Objects1[i].getHeight()) + 1000);
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDv_9595102Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDv_9595102Objects1[i].setZOrder((gdjs.RuangKelasCode.GDv_9595102Objects1[i].getY()) + (gdjs.RuangKelasCode.GDv_9595102Objects1[i].getHeight()) + 1000);
+}
+}
+{for(var i = 0, len = gdjs.RuangKelasCode.GDv_9595103Objects1.length ;i < len;++i) {
+    gdjs.RuangKelasCode.GDv_9595103Objects1[i].setZOrder((gdjs.RuangKelasCode.GDv_9595103Objects1[i].getY()) + (gdjs.RuangKelasCode.GDv_9595103Objects1[i].getHeight()) + 1000);
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
@@ -4204,6 +4977,27 @@ gdjs.RuangKelasCode.GDKeluar103Objects3.length = 0;
 gdjs.RuangKelasCode.GDKeluar101Objects1.length = 0;
 gdjs.RuangKelasCode.GDKeluar101Objects2.length = 0;
 gdjs.RuangKelasCode.GDKeluar101Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangkuObjects1.length = 0;
+gdjs.RuangKelasCode.GDBangkuObjects2.length = 0;
+gdjs.RuangKelasCode.GDBangkuObjects3.length = 0;
+gdjs.RuangKelasCode.GDBangku2Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku2Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku2Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangku3Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku3Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku3Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangku4Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku4Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku4Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangku5Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku5Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku5Objects3.length = 0;
+gdjs.RuangKelasCode.GDMejaDosenObjects1.length = 0;
+gdjs.RuangKelasCode.GDMejaDosenObjects2.length = 0;
+gdjs.RuangKelasCode.GDMejaDosenObjects3.length = 0;
+gdjs.RuangKelasCode.GDMejaDosen2Objects1.length = 0;
+gdjs.RuangKelasCode.GDMejaDosen2Objects2.length = 0;
+gdjs.RuangKelasCode.GDMejaDosen2Objects3.length = 0;
 gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length = 0;
 gdjs.RuangKelasCode.GDwsyahbaniiObjects2.length = 0;
 gdjs.RuangKelasCode.GDwsyahbaniiObjects3.length = 0;
@@ -4320,6 +5114,27 @@ gdjs.RuangKelasCode.GDKeluar103Objects3.length = 0;
 gdjs.RuangKelasCode.GDKeluar101Objects1.length = 0;
 gdjs.RuangKelasCode.GDKeluar101Objects2.length = 0;
 gdjs.RuangKelasCode.GDKeluar101Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangkuObjects1.length = 0;
+gdjs.RuangKelasCode.GDBangkuObjects2.length = 0;
+gdjs.RuangKelasCode.GDBangkuObjects3.length = 0;
+gdjs.RuangKelasCode.GDBangku2Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku2Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku2Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangku3Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku3Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku3Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangku4Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku4Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku4Objects3.length = 0;
+gdjs.RuangKelasCode.GDBangku5Objects1.length = 0;
+gdjs.RuangKelasCode.GDBangku5Objects2.length = 0;
+gdjs.RuangKelasCode.GDBangku5Objects3.length = 0;
+gdjs.RuangKelasCode.GDMejaDosenObjects1.length = 0;
+gdjs.RuangKelasCode.GDMejaDosenObjects2.length = 0;
+gdjs.RuangKelasCode.GDMejaDosenObjects3.length = 0;
+gdjs.RuangKelasCode.GDMejaDosen2Objects1.length = 0;
+gdjs.RuangKelasCode.GDMejaDosen2Objects2.length = 0;
+gdjs.RuangKelasCode.GDMejaDosen2Objects3.length = 0;
 gdjs.RuangKelasCode.GDwsyahbaniiObjects1.length = 0;
 gdjs.RuangKelasCode.GDwsyahbaniiObjects2.length = 0;
 gdjs.RuangKelasCode.GDwsyahbaniiObjects3.length = 0;
