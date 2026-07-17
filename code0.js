@@ -121,7 +121,7 @@ gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDDindingObjects1Objects = Hashta
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.LorongCode.GDDindingObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas101Objects1Objects = Hashtable.newFrom({"toKelas101": gdjs.LorongCode.GDtoKelas101Objects1});
-gdjs.LorongCode.asyncCallback10799868 = function (runtimeScene, asyncObjectsList) {
+gdjs.LorongCode.asyncCallback11965540 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables);
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "RuangKelas", false);
 }
@@ -129,7 +129,7 @@ asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables)
 }
 gdjs.LorongCode.localVariables.length = 0;
 }
-gdjs.LorongCode.idToCallbackMap.set(10799868, gdjs.LorongCode.asyncCallback10799868);
+gdjs.LorongCode.idToCallbackMap.set(11965540, gdjs.LorongCode.asyncCallback11965540);
 gdjs.LorongCode.eventsList0 = function(runtimeScene) {
 
 {
@@ -139,7 +139,7 @@ gdjs.LorongCode.eventsList0 = function(runtimeScene) {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.LorongCode.localVariables);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback10799868(runtimeScene, asyncObjectsList)), 10799868, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback11965540(runtimeScene, asyncObjectsList)), 11965540, asyncObjectsList);
 }
 }
 
@@ -148,7 +148,7 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4)
 
 };gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas102Objects1Objects = Hashtable.newFrom({"toKelas102": gdjs.LorongCode.GDtoKelas102Objects1});
-gdjs.LorongCode.asyncCallback9204724 = function (runtimeScene, asyncObjectsList) {
+gdjs.LorongCode.asyncCallback11364036 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables);
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "RuangKelas", false);
 }
@@ -156,7 +156,7 @@ asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables)
 }
 gdjs.LorongCode.localVariables.length = 0;
 }
-gdjs.LorongCode.idToCallbackMap.set(9204724, gdjs.LorongCode.asyncCallback9204724);
+gdjs.LorongCode.idToCallbackMap.set(11364036, gdjs.LorongCode.asyncCallback11364036);
 gdjs.LorongCode.eventsList1 = function(runtimeScene) {
 
 {
@@ -166,7 +166,7 @@ gdjs.LorongCode.eventsList1 = function(runtimeScene) {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.LorongCode.localVariables);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback9204724(runtimeScene, asyncObjectsList)), 9204724, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback11364036(runtimeScene, asyncObjectsList)), 11364036, asyncObjectsList);
 }
 }
 
@@ -175,7 +175,7 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4)
 
 };gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas103Objects1Objects = Hashtable.newFrom({"toKelas103": gdjs.LorongCode.GDtoKelas103Objects1});
-gdjs.LorongCode.asyncCallback12648468 = function (runtimeScene, asyncObjectsList) {
+gdjs.LorongCode.asyncCallback11366884 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables);
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "RuangKelas", false);
 }
@@ -183,7 +183,7 @@ asyncObjectsList.restoreLocalVariablesContainers(gdjs.LorongCode.localVariables)
 }
 gdjs.LorongCode.localVariables.length = 0;
 }
-gdjs.LorongCode.idToCallbackMap.set(12648468, gdjs.LorongCode.asyncCallback12648468);
+gdjs.LorongCode.idToCallbackMap.set(11366884, gdjs.LorongCode.asyncCallback11366884);
 gdjs.LorongCode.eventsList2 = function(runtimeScene) {
 
 {
@@ -193,7 +193,7 @@ gdjs.LorongCode.eventsList2 = function(runtimeScene) {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.LorongCode.localVariables);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback12648468(runtimeScene, asyncObjectsList)), 12648468, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.4), (runtimeScene) => (gdjs.LorongCode.asyncCallback11366884(runtimeScene, asyncObjectsList)), 11366884, asyncObjectsList);
 }
 }
 
@@ -3627,7 +3627,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas101Objects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11576860);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11962604);
 }
 }
 if (isConditionTrue_0) {
@@ -3665,7 +3665,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas102Objects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(9204652);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11363292);
 }
 }
 if (isConditionTrue_0) {
@@ -3703,7 +3703,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects, gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDtoKelas103Objects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12545396);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11366164);
 }
 }
 if (isConditionTrue_0) {
