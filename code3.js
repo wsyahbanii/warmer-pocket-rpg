@@ -93,7 +93,7 @@ gdjs.MenuKarakterCode.GDDandiObjects1= [];
 gdjs.MenuKarakterCode.GDDandiObjects2= [];
 
 
-gdjs.MenuKarakterCode.userFunc0x965c78 = function GDJSInlineCode(runtimeScene) {
+gdjs.MenuKarakterCode.userFunc0xb13078 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // Cegah kode disuntikkan berkali-kali
 if (!window.gtagTelahMasuk) {
@@ -159,7 +159,7 @@ gdjs.MenuKarakterCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.MenuKarakterCode.userFunc0x965c78(runtimeScene);
+gdjs.MenuKarakterCode.userFunc0xb13078(runtimeScene);
 
 }
 
