@@ -121,9 +121,11 @@ gdjs.MenuKarakterCode.GDJendelaGedungObjects1= [];
 gdjs.MenuKarakterCode.GDJendelaGedungObjects2= [];
 gdjs.MenuKarakterCode.GDAspalObjects1= [];
 gdjs.MenuKarakterCode.GDAspalObjects2= [];
+gdjs.MenuKarakterCode.GDMinimapObjects1= [];
+gdjs.MenuKarakterCode.GDMinimapObjects2= [];
 
 
-gdjs.MenuKarakterCode.userFunc0xe6a198 = function GDJSInlineCode(runtimeScene) {
+gdjs.MenuKarakterCode.userFunc0x9e6558 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // Cegah kode disuntikkan berkali-kali
 if (!window.gtagTelahMasuk) {
@@ -189,7 +191,7 @@ gdjs.MenuKarakterCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.MenuKarakterCode.userFunc0xe6a198(runtimeScene);
+gdjs.MenuKarakterCode.userFunc0x9e6558(runtimeScene);
 
 }
 
@@ -1128,6 +1130,8 @@ gdjs.MenuKarakterCode.GDJendelaGedungObjects1.length = 0;
 gdjs.MenuKarakterCode.GDJendelaGedungObjects2.length = 0;
 gdjs.MenuKarakterCode.GDAspalObjects1.length = 0;
 gdjs.MenuKarakterCode.GDAspalObjects2.length = 0;
+gdjs.MenuKarakterCode.GDMinimapObjects1.length = 0;
+gdjs.MenuKarakterCode.GDMinimapObjects2.length = 0;
 
 gdjs.MenuKarakterCode.eventsList0(runtimeScene);
 gdjs.MenuKarakterCode.GDTombolBaniObjects1.length = 0;
@@ -1250,6 +1254,8 @@ gdjs.MenuKarakterCode.GDJendelaGedungObjects1.length = 0;
 gdjs.MenuKarakterCode.GDJendelaGedungObjects2.length = 0;
 gdjs.MenuKarakterCode.GDAspalObjects1.length = 0;
 gdjs.MenuKarakterCode.GDAspalObjects2.length = 0;
+gdjs.MenuKarakterCode.GDMinimapObjects1.length = 0;
+gdjs.MenuKarakterCode.GDMinimapObjects2.length = 0;
 
 
 return;

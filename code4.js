@@ -49,6 +49,9 @@ gdjs.FrontGd_46ACode.GDAspal2Objects3= [];
 gdjs.FrontGd_46ACode.GDPagerObjects1= [];
 gdjs.FrontGd_46ACode.GDPagerObjects2= [];
 gdjs.FrontGd_46ACode.GDPagerObjects3= [];
+gdjs.FrontGd_46ACode.GDGerbangObjects1= [];
+gdjs.FrontGd_46ACode.GDGerbangObjects2= [];
+gdjs.FrontGd_46ACode.GDGerbangObjects3= [];
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects1= [];
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects2= [];
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects3= [];
@@ -145,6 +148,9 @@ gdjs.FrontGd_46ACode.GDJendelaGedungObjects3= [];
 gdjs.FrontGd_46ACode.GDAspalObjects1= [];
 gdjs.FrontGd_46ACode.GDAspalObjects2= [];
 gdjs.FrontGd_46ACode.GDAspalObjects3= [];
+gdjs.FrontGd_46ACode.GDMinimapObjects1= [];
+gdjs.FrontGd_46ACode.GDMinimapObjects2= [];
+gdjs.FrontGd_46ACode.GDMinimapObjects3= [];
 
 
 gdjs.FrontGd_46ACode.mapOfGDgdjs_9546FrontGd_959546ACode_9546GDDindingObjects1Objects = Hashtable.newFrom({"Dinding": gdjs.FrontGd_46ACode.GDDindingObjects1});
@@ -4103,6 +4109,7 @@ gdjs.copyArray(runtimeScene.getObjects("Bokri"), gdjs.FrontGd_46ACode.GDBokriObj
 gdjs.copyArray(runtimeScene.getObjects("Dandi"), gdjs.FrontGd_46ACode.GDDandiObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Haikal"), gdjs.FrontGd_46ACode.GDHaikalObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Nabil"), gdjs.FrontGd_46ACode.GDNabilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Pager"), gdjs.FrontGd_46ACode.GDPagerObjects1);
 gdjs.copyArray(runtimeScene.getObjects("PembatasJalan"), gdjs.FrontGd_46ACode.GDPembatasJalanObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tiang"), gdjs.FrontGd_46ACode.GDTiangObjects1);
 gdjs.copyArray(runtimeScene.getObjects("alam"), gdjs.FrontGd_46ACode.GDalamObjects1);
@@ -4115,6 +4122,10 @@ gdjs.copyArray(runtimeScene.getObjects("ucup"), gdjs.FrontGd_46ACode.GDucupObjec
 gdjs.copyArray(runtimeScene.getObjects("wsyahbanii"), gdjs.FrontGd_46ACode.GDwsyahbaniiObjects1);
 {for(var i = 0, len = gdjs.FrontGd_46ACode.GDTiangObjects1.length ;i < len;++i) {
     gdjs.FrontGd_46ACode.GDTiangObjects1[i].setZOrder((gdjs.FrontGd_46ACode.GDTiangObjects1[i].getY()) + (gdjs.FrontGd_46ACode.GDTiangObjects1[i].getHeight()));
+}
+}
+{for(var i = 0, len = gdjs.FrontGd_46ACode.GDPagerObjects1.length ;i < len;++i) {
+    gdjs.FrontGd_46ACode.GDPagerObjects1[i].setZOrder((gdjs.FrontGd_46ACode.GDPagerObjects1[i].getY()) + (gdjs.FrontGd_46ACode.GDPagerObjects1[i].getHeight()));
 }
 }
 {for(var i = 0, len = gdjs.FrontGd_46ACode.GDHaikalObjects1.length ;i < len;++i) {
@@ -4216,6 +4227,9 @@ gdjs.FrontGd_46ACode.GDAspal2Objects3.length = 0;
 gdjs.FrontGd_46ACode.GDPagerObjects1.length = 0;
 gdjs.FrontGd_46ACode.GDPagerObjects2.length = 0;
 gdjs.FrontGd_46ACode.GDPagerObjects3.length = 0;
+gdjs.FrontGd_46ACode.GDGerbangObjects1.length = 0;
+gdjs.FrontGd_46ACode.GDGerbangObjects2.length = 0;
+gdjs.FrontGd_46ACode.GDGerbangObjects3.length = 0;
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects1.length = 0;
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects2.length = 0;
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects3.length = 0;
@@ -4312,6 +4326,9 @@ gdjs.FrontGd_46ACode.GDJendelaGedungObjects3.length = 0;
 gdjs.FrontGd_46ACode.GDAspalObjects1.length = 0;
 gdjs.FrontGd_46ACode.GDAspalObjects2.length = 0;
 gdjs.FrontGd_46ACode.GDAspalObjects3.length = 0;
+gdjs.FrontGd_46ACode.GDMinimapObjects1.length = 0;
+gdjs.FrontGd_46ACode.GDMinimapObjects2.length = 0;
+gdjs.FrontGd_46ACode.GDMinimapObjects3.length = 0;
 
 gdjs.FrontGd_46ACode.eventsList1(runtimeScene);
 gdjs.FrontGd_46ACode.GDLatarObjects1.length = 0;
@@ -4362,6 +4379,9 @@ gdjs.FrontGd_46ACode.GDAspal2Objects3.length = 0;
 gdjs.FrontGd_46ACode.GDPagerObjects1.length = 0;
 gdjs.FrontGd_46ACode.GDPagerObjects2.length = 0;
 gdjs.FrontGd_46ACode.GDPagerObjects3.length = 0;
+gdjs.FrontGd_46ACode.GDGerbangObjects1.length = 0;
+gdjs.FrontGd_46ACode.GDGerbangObjects2.length = 0;
+gdjs.FrontGd_46ACode.GDGerbangObjects3.length = 0;
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects1.length = 0;
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects2.length = 0;
 gdjs.FrontGd_46ACode.GDwsyahbaniiObjects3.length = 0;
@@ -4458,6 +4478,9 @@ gdjs.FrontGd_46ACode.GDJendelaGedungObjects3.length = 0;
 gdjs.FrontGd_46ACode.GDAspalObjects1.length = 0;
 gdjs.FrontGd_46ACode.GDAspalObjects2.length = 0;
 gdjs.FrontGd_46ACode.GDAspalObjects3.length = 0;
+gdjs.FrontGd_46ACode.GDMinimapObjects1.length = 0;
+gdjs.FrontGd_46ACode.GDMinimapObjects2.length = 0;
+gdjs.FrontGd_46ACode.GDMinimapObjects3.length = 0;
 
 
 return;

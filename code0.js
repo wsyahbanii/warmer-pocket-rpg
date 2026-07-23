@@ -148,6 +148,9 @@ gdjs.LorongCode.GDJendelaGedungObjects3= [];
 gdjs.LorongCode.GDAspalObjects1= [];
 gdjs.LorongCode.GDAspalObjects2= [];
 gdjs.LorongCode.GDAspalObjects3= [];
+gdjs.LorongCode.GDMinimapObjects1= [];
+gdjs.LorongCode.GDMinimapObjects2= [];
+gdjs.LorongCode.GDMinimapObjects3= [];
 
 
 gdjs.LorongCode.mapOfGDgdjs_9546LorongCode_9546GDHaikalObjects1ObjectsGDgdjs_9546LorongCode_9546GDNabilObjects1ObjectsGDgdjs_9546LorongCode_9546GDputraObjects1ObjectsGDgdjs_9546LorongCode_9546GDwsyahbaniiObjects1ObjectsGDgdjs_9546LorongCode_9546GDBokriObjects1ObjectsGDgdjs_9546LorongCode_9546GDdenyObjects1ObjectsGDgdjs_9546LorongCode_9546GDanisaObjects1ObjectsGDgdjs_9546LorongCode_9546GDilhamObjects1ObjectsGDgdjs_9546LorongCode_9546GDtyaObjects1ObjectsGDgdjs_9546LorongCode_9546GDalamObjects1ObjectsGDgdjs_9546LorongCode_9546GDucupObjects1ObjectsGDgdjs_9546LorongCode_9546GDDandiObjects1Objects = Hashtable.newFrom({"Haikal": gdjs.LorongCode.GDHaikalObjects1, "Nabil": gdjs.LorongCode.GDNabilObjects1, "putra": gdjs.LorongCode.GDputraObjects1, "wsyahbanii": gdjs.LorongCode.GDwsyahbaniiObjects1, "Bokri": gdjs.LorongCode.GDBokriObjects1, "deny": gdjs.LorongCode.GDdenyObjects1, "anisa": gdjs.LorongCode.GDanisaObjects1, "ilham": gdjs.LorongCode.GDilhamObjects1, "tya": gdjs.LorongCode.GDtyaObjects1, "alam": gdjs.LorongCode.GDalamObjects1, "ucup": gdjs.LorongCode.GDucupObjects1, "Dandi": gdjs.LorongCode.GDDandiObjects1});
@@ -4344,6 +4347,9 @@ gdjs.LorongCode.GDJendelaGedungObjects3.length = 0;
 gdjs.LorongCode.GDAspalObjects1.length = 0;
 gdjs.LorongCode.GDAspalObjects2.length = 0;
 gdjs.LorongCode.GDAspalObjects3.length = 0;
+gdjs.LorongCode.GDMinimapObjects1.length = 0;
+gdjs.LorongCode.GDMinimapObjects2.length = 0;
+gdjs.LorongCode.GDMinimapObjects3.length = 0;
 
 gdjs.LorongCode.eventsList4(runtimeScene);
 gdjs.LorongCode.GDLantaiKampusObjects1.length = 0;
@@ -4493,6 +4499,9 @@ gdjs.LorongCode.GDJendelaGedungObjects3.length = 0;
 gdjs.LorongCode.GDAspalObjects1.length = 0;
 gdjs.LorongCode.GDAspalObjects2.length = 0;
 gdjs.LorongCode.GDAspalObjects3.length = 0;
+gdjs.LorongCode.GDMinimapObjects1.length = 0;
+gdjs.LorongCode.GDMinimapObjects2.length = 0;
+gdjs.LorongCode.GDMinimapObjects3.length = 0;
 
 
 return;

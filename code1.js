@@ -181,6 +181,9 @@ gdjs.RuangKelasCode.GDJendelaGedungObjects3= [];
 gdjs.RuangKelasCode.GDAspalObjects1= [];
 gdjs.RuangKelasCode.GDAspalObjects2= [];
 gdjs.RuangKelasCode.GDAspalObjects3= [];
+gdjs.RuangKelasCode.GDMinimapObjects1= [];
+gdjs.RuangKelasCode.GDMinimapObjects2= [];
+gdjs.RuangKelasCode.GDMinimapObjects3= [];
 
 
 gdjs.RuangKelasCode.mapOfGDgdjs_9546RuangKelasCode_9546GDTombolAtasObjects1Objects = Hashtable.newFrom({"TombolAtas": gdjs.RuangKelasCode.GDTombolAtasObjects1});
@@ -5153,6 +5156,9 @@ gdjs.RuangKelasCode.GDJendelaGedungObjects3.length = 0;
 gdjs.RuangKelasCode.GDAspalObjects1.length = 0;
 gdjs.RuangKelasCode.GDAspalObjects2.length = 0;
 gdjs.RuangKelasCode.GDAspalObjects3.length = 0;
+gdjs.RuangKelasCode.GDMinimapObjects1.length = 0;
+gdjs.RuangKelasCode.GDMinimapObjects2.length = 0;
+gdjs.RuangKelasCode.GDMinimapObjects3.length = 0;
 
 gdjs.RuangKelasCode.eventsList1(runtimeScene);
 gdjs.RuangKelasCode.GDLantai_9595KelasObjects1.length = 0;
@@ -5335,6 +5341,9 @@ gdjs.RuangKelasCode.GDJendelaGedungObjects3.length = 0;
 gdjs.RuangKelasCode.GDAspalObjects1.length = 0;
 gdjs.RuangKelasCode.GDAspalObjects2.length = 0;
 gdjs.RuangKelasCode.GDAspalObjects3.length = 0;
+gdjs.RuangKelasCode.GDMinimapObjects1.length = 0;
+gdjs.RuangKelasCode.GDMinimapObjects2.length = 0;
+gdjs.RuangKelasCode.GDMinimapObjects3.length = 0;
 
 
 return;
