@@ -91,9 +91,39 @@ gdjs.MenuKarakterCode.GDKembaliObjects1= [];
 gdjs.MenuKarakterCode.GDKembaliObjects2= [];
 gdjs.MenuKarakterCode.GDDandiObjects1= [];
 gdjs.MenuKarakterCode.GDDandiObjects2= [];
+gdjs.MenuKarakterCode.GDDingingObjects1= [];
+gdjs.MenuKarakterCode.GDDingingObjects2= [];
+gdjs.MenuKarakterCode.GDKacaObjects1= [];
+gdjs.MenuKarakterCode.GDKacaObjects2= [];
+gdjs.MenuKarakterCode.GDLantaiObjects1= [];
+gdjs.MenuKarakterCode.GDLantaiObjects2= [];
+gdjs.MenuKarakterCode.GDTiangObjects1= [];
+gdjs.MenuKarakterCode.GDTiangObjects2= [];
+gdjs.MenuKarakterCode.GDDinging3Objects1= [];
+gdjs.MenuKarakterCode.GDDinging3Objects2= [];
+gdjs.MenuKarakterCode.GDDinging2Objects1= [];
+gdjs.MenuKarakterCode.GDDinging2Objects2= [];
+gdjs.MenuKarakterCode.GDLantaiKunginObjects1= [];
+gdjs.MenuKarakterCode.GDLantaiKunginObjects2= [];
+gdjs.MenuKarakterCode.GDTangga3Objects1= [];
+gdjs.MenuKarakterCode.GDTangga3Objects2= [];
+gdjs.MenuKarakterCode.GDInsideTiangObjects1= [];
+gdjs.MenuKarakterCode.GDInsideTiangObjects2= [];
+gdjs.MenuKarakterCode.GDLantaiKungin2Objects1= [];
+gdjs.MenuKarakterCode.GDLantaiKungin2Objects2= [];
+gdjs.MenuKarakterCode.GDGedungObjects1= [];
+gdjs.MenuKarakterCode.GDGedungObjects2= [];
+gdjs.MenuKarakterCode.GDKacaGedungObjects1= [];
+gdjs.MenuKarakterCode.GDKacaGedungObjects2= [];
+gdjs.MenuKarakterCode.GDGedung1Objects1= [];
+gdjs.MenuKarakterCode.GDGedung1Objects2= [];
+gdjs.MenuKarakterCode.GDJendelaGedungObjects1= [];
+gdjs.MenuKarakterCode.GDJendelaGedungObjects2= [];
+gdjs.MenuKarakterCode.GDAspalObjects1= [];
+gdjs.MenuKarakterCode.GDAspalObjects2= [];
 
 
-gdjs.MenuKarakterCode.userFunc0xa146e0 = function GDJSInlineCode(runtimeScene) {
+gdjs.MenuKarakterCode.userFunc0x10aca58 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // Cegah kode disuntikkan berkali-kali
 if (!window.gtagTelahMasuk) {
@@ -159,7 +189,7 @@ gdjs.MenuKarakterCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.MenuKarakterCode.userFunc0xa146e0(runtimeScene);
+gdjs.MenuKarakterCode.userFunc0x10aca58(runtimeScene);
 
 }
 
@@ -1068,6 +1098,36 @@ gdjs.MenuKarakterCode.GDKembaliObjects1.length = 0;
 gdjs.MenuKarakterCode.GDKembaliObjects2.length = 0;
 gdjs.MenuKarakterCode.GDDandiObjects1.length = 0;
 gdjs.MenuKarakterCode.GDDandiObjects2.length = 0;
+gdjs.MenuKarakterCode.GDDingingObjects1.length = 0;
+gdjs.MenuKarakterCode.GDDingingObjects2.length = 0;
+gdjs.MenuKarakterCode.GDKacaObjects1.length = 0;
+gdjs.MenuKarakterCode.GDKacaObjects2.length = 0;
+gdjs.MenuKarakterCode.GDLantaiObjects1.length = 0;
+gdjs.MenuKarakterCode.GDLantaiObjects2.length = 0;
+gdjs.MenuKarakterCode.GDTiangObjects1.length = 0;
+gdjs.MenuKarakterCode.GDTiangObjects2.length = 0;
+gdjs.MenuKarakterCode.GDDinging3Objects1.length = 0;
+gdjs.MenuKarakterCode.GDDinging3Objects2.length = 0;
+gdjs.MenuKarakterCode.GDDinging2Objects1.length = 0;
+gdjs.MenuKarakterCode.GDDinging2Objects2.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKunginObjects1.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKunginObjects2.length = 0;
+gdjs.MenuKarakterCode.GDTangga3Objects1.length = 0;
+gdjs.MenuKarakterCode.GDTangga3Objects2.length = 0;
+gdjs.MenuKarakterCode.GDInsideTiangObjects1.length = 0;
+gdjs.MenuKarakterCode.GDInsideTiangObjects2.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKungin2Objects1.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKungin2Objects2.length = 0;
+gdjs.MenuKarakterCode.GDGedungObjects1.length = 0;
+gdjs.MenuKarakterCode.GDGedungObjects2.length = 0;
+gdjs.MenuKarakterCode.GDKacaGedungObjects1.length = 0;
+gdjs.MenuKarakterCode.GDKacaGedungObjects2.length = 0;
+gdjs.MenuKarakterCode.GDGedung1Objects1.length = 0;
+gdjs.MenuKarakterCode.GDGedung1Objects2.length = 0;
+gdjs.MenuKarakterCode.GDJendelaGedungObjects1.length = 0;
+gdjs.MenuKarakterCode.GDJendelaGedungObjects2.length = 0;
+gdjs.MenuKarakterCode.GDAspalObjects1.length = 0;
+gdjs.MenuKarakterCode.GDAspalObjects2.length = 0;
 
 gdjs.MenuKarakterCode.eventsList0(runtimeScene);
 gdjs.MenuKarakterCode.GDTombolBaniObjects1.length = 0;
@@ -1160,6 +1220,36 @@ gdjs.MenuKarakterCode.GDKembaliObjects1.length = 0;
 gdjs.MenuKarakterCode.GDKembaliObjects2.length = 0;
 gdjs.MenuKarakterCode.GDDandiObjects1.length = 0;
 gdjs.MenuKarakterCode.GDDandiObjects2.length = 0;
+gdjs.MenuKarakterCode.GDDingingObjects1.length = 0;
+gdjs.MenuKarakterCode.GDDingingObjects2.length = 0;
+gdjs.MenuKarakterCode.GDKacaObjects1.length = 0;
+gdjs.MenuKarakterCode.GDKacaObjects2.length = 0;
+gdjs.MenuKarakterCode.GDLantaiObjects1.length = 0;
+gdjs.MenuKarakterCode.GDLantaiObjects2.length = 0;
+gdjs.MenuKarakterCode.GDTiangObjects1.length = 0;
+gdjs.MenuKarakterCode.GDTiangObjects2.length = 0;
+gdjs.MenuKarakterCode.GDDinging3Objects1.length = 0;
+gdjs.MenuKarakterCode.GDDinging3Objects2.length = 0;
+gdjs.MenuKarakterCode.GDDinging2Objects1.length = 0;
+gdjs.MenuKarakterCode.GDDinging2Objects2.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKunginObjects1.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKunginObjects2.length = 0;
+gdjs.MenuKarakterCode.GDTangga3Objects1.length = 0;
+gdjs.MenuKarakterCode.GDTangga3Objects2.length = 0;
+gdjs.MenuKarakterCode.GDInsideTiangObjects1.length = 0;
+gdjs.MenuKarakterCode.GDInsideTiangObjects2.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKungin2Objects1.length = 0;
+gdjs.MenuKarakterCode.GDLantaiKungin2Objects2.length = 0;
+gdjs.MenuKarakterCode.GDGedungObjects1.length = 0;
+gdjs.MenuKarakterCode.GDGedungObjects2.length = 0;
+gdjs.MenuKarakterCode.GDKacaGedungObjects1.length = 0;
+gdjs.MenuKarakterCode.GDKacaGedungObjects2.length = 0;
+gdjs.MenuKarakterCode.GDGedung1Objects1.length = 0;
+gdjs.MenuKarakterCode.GDGedung1Objects2.length = 0;
+gdjs.MenuKarakterCode.GDJendelaGedungObjects1.length = 0;
+gdjs.MenuKarakterCode.GDJendelaGedungObjects2.length = 0;
+gdjs.MenuKarakterCode.GDAspalObjects1.length = 0;
+gdjs.MenuKarakterCode.GDAspalObjects2.length = 0;
 
 
 return;
